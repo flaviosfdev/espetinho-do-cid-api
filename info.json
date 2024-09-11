@@ -1,46 +1,46 @@
 {
-    "isAberto": false,
-    "contato": {
+    "isOpen": false,
+    "contact": {
         "whatsapp": "",
         "instagram": ""
     },
-    "endereco": {
+    "address": {
         "cep": "59621-210",
-        "logradouro": "Rua Artur Bernardes",
-        "numero": "",
-        "bairro": "Barrocas",
-        "localidade": "Mossoró",
+        "street": "Rua Artur Bernardes",
+        "number": "",
+        "neighborhood": "Barrocas",
+        "city": "Mossoró",
         "uf": "RN",
-        "estado": "Rio Grande do Norte"
+        "state": "Rio Grande do Norte"
     },
-    "funcionamento": [
+    "openingHours": [
         {
-            "dia": "Segunda-feira",
-            "horario": "18:00 às 22:00"
+            "day": "Segunda-feira",
+            "time": "18:00 às 22:00"
         },
         {
-            "dia": "Terça-feira",
-            "horario": "Fechado"
+            "day": "Terça-feira",
+            "time": "Fechado"
         },
         {
-            "dia": "Quarta-feira",
-            "horario": "Fechado"
+            "day": "Quarta-feira",
+            "time": "Fechado"
         },
         {
-            "dia": "Quinta-feira",
-            "horario": "18:00 às 22:00"
+            "day": "Quinta-feira",
+            "time": "18:00 às 22:00"
         },
         {
-            "dia": "Sexta-feira",
-            "horario": "18:00 às 22:00"
+            "day": "Sexta-feira",
+            "time": "18:00 às 22:00"
         },
         {
-            "dia": "Sábado",
-            "horario": "18:00 às 22:00"
+            "day": "Sábado",
+            "time": "18:00 às 22:00"
         },
         {
-            "dia": "Domingo",
-            "horario": "18:00 às 22:00"
+            "day": "Domingo",
+            "time": "18:00 às 22:00"
         }
     ]
 }
