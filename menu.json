@@ -1,0 +1,484 @@
+{
+    "categories": [
+        "espeto tradicional",
+        "espeto especial",
+        "petisco",
+        "bebida",
+        "litrinho",
+        "long neck",
+        "cerveja lata",
+        "cerveja 600",
+        "combo",
+        "mais pedido"
+    ],
+    "menu": [
+        {
+            "id": "trad0001",
+            "name": "Carne",
+            "description": "",
+            "size": null,
+            "price": 700,
+            "category": "espeto tradicional",
+            "isAvailable": true
+        },
+        {
+            "id": "trad0002",
+            "name": "Frango",
+            "description": "",
+            "size": null,
+            "price": 700,
+            "category": "espeto tradicional",
+            "isAvailable": true
+        },
+        {
+            "id": "trad0003",
+            "name": "Calabresa",
+            "description": "",
+            "size": null,
+            "price": 700,
+            "category": "espeto tradicional",
+            "isAvailable": true
+        },
+        {
+            "id": "trad0004",
+            "name": "Coração de frango",
+            "description": "",
+            "size": null,
+            "price": 700,
+            "category": "espeto tradicional",
+            "isAvailable": true
+        },
+        {
+            "id": "trad0005",
+            "name": "Coração de boi",
+            "description": "",
+            "size": null,
+            "price": 700,
+            "category": "espeto tradicional",
+            "isAvailable": true
+        },
+        {
+            "id": "trad0006",
+            "name": "Porco",
+            "description": "",
+            "size": null,
+            "price": 700,
+            "category": "espeto tradicional",
+            "isAvailable": true
+        },
+        {
+            "id": "trad0007",
+            "name": "Queijo coalho",
+            "description": "",
+            "size": null,
+            "price": 700,
+            "category": "espeto tradicional",
+            "isAvailable": true
+        },
+        {
+            "id": "spec0001",
+            "name": "Carne com bacon",
+            "description": "",
+            "size": null,
+            "price": 800,
+            "category": "espeto especial",
+            "isAvailable": true
+        },
+        {
+            "id": "spec0002",
+            "name": "Frago com bacon",
+            "description": "",
+            "size": null,
+            "price": 800,
+            "category": "espeto especial",
+            "isAvailable": true
+        },
+        {
+            "id": "spec0003",
+            "name": "Ovo com bacon",
+            "description": "",
+            "size": null,
+            "price": 800,
+            "category": "espeto especial",
+            "isAvailable": true
+        },
+        {
+            "id": "spec0004",
+            "name": "Kafta",
+            "description": "",
+            "size": null,
+            "price": 800,
+            "category": "espeto especial",
+            "isAvailable": true
+        },
+        {
+            "id": "peti0001",
+            "name": "Batata frita",
+            "description": "",
+            "size": null,
+            "price": 1000,
+            "category": "petisco",
+            "isAvailable": true
+        },
+        {
+            "id": "peti0002",
+            "name": "Cubinho de macaxeira",
+            "description": "",
+            "size": null,
+            "price": 1400,
+            "category": "petisco",
+            "isAvailable": true
+        },
+        {
+            "id": "peti0003",
+            "name": "Filé com fritas",
+            "description": "",
+            "size": null,
+            "price": 3000,
+            "category": "petisco",
+            "isAvailable": true
+        },
+        {
+            "id": "peti0004",
+            "name": "Calabresa com fritas",
+            "description": "",
+            "size": null,
+            "price": 2200,
+            "category": "petisco",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0001",
+            "name": "Água mineral sem gás",
+            "description": "",
+            "size": 500,
+            "price": 200,
+            "category": "bebida",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0002",
+            "name": "Água mineral com gás",
+            "description": "",
+            "size": 500,
+            "price": 300,
+            "category": "bebida",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0003",
+            "name": "Redbull",
+            "description": "",
+            "size": 250,
+            "price": 1000,
+            "category": "bebida",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0004",
+            "name": "Ice cabaré",
+            "description": "",
+            "size": 275,
+            "price": 1000,
+            "category": "bebida",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0005",
+            "name": "Refrigerante Lata",
+            "description": "",
+            "size": 350,
+            "price": 400,
+            "category": "bebida",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0006",
+            "name": "Refrigerante 1L",
+            "description": "",
+            "size": 1000,
+            "price": 700,
+            "category": "bebida",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0007",
+            "name": "Ypióca lata",
+            "description": "",
+            "size": 350,
+            "price": 1000,
+            "category": "bebida",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0008",
+            "name": "Cachaça 51",
+            "description": "",
+            "size": 350,
+            "price": 800,
+            "category": "bebida",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0009",
+            "name": "Cachaça Carangueijo Ouro",
+            "description": "",
+            "size": 350,
+            "price": 800,
+            "category": "bebida",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0010",
+            "name": "Cachaça Carangueijo Prata",
+            "description": "",
+            "size": 350,
+            "price": 800,
+            "category": "bebida",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0011",
+            "name": "Brahma Chopp",
+            "description": "",
+            "size": 300,
+            "price": 400,
+            "category": "litrinho",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0012",
+            "name": "Devassa",
+            "description": "",
+            "size": 300,
+            "price": 400,
+            "category": "litrinho",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0013",
+            "name": "Itaipava",
+            "description": "",
+            "size": 300,
+            "price": 400,
+            "category": "litrinho",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0014",
+            "name": "Skol",
+            "description": "",
+            "size": 300,
+            "price": 400,
+            "category": "litrinho",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0015",
+            "name": "Budweiser",
+            "description": "",
+            "size": 330,
+            "price": 800,
+            "category": "long neck",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0016",
+            "name": "Corona",
+            "description": "",
+            "size": 330,
+            "price": 800,
+            "category": "long neck",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0017",
+            "name": "Heineken",
+            "description": "",
+            "size": 330,
+            "price": 800,
+            "category": "long neck",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0018",
+            "name": "Spaten",
+            "description": "",
+            "size": 355,
+            "price": 800,
+            "category": "long neck",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0019",
+            "name": "Stella Artois",
+            "description": "",
+            "size": 330,
+            "price": 800,
+            "category": "long neck",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0020",
+            "name": "Amstel",
+            "description": "",
+            "size": null,
+            "price": 400,
+            "category": "cerveja lata",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0021",
+            "name": "Brahma Chopp",
+            "description": "",
+            "size": null,
+            "price": 400,
+            "category": "cerveja lata",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0022",
+            "name": "Brahma Duplo Malte",
+            "description": "",
+            "size": null,
+            "price": 400,
+            "category": "cerveja lata",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0023",
+            "name": "Budweiser",
+            "description": "",
+            "size": null,
+            "price": 600,
+            "category": "cerveja lata",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0024",
+            "name": "Corona",
+            "description": "",
+            "size": null,
+            "price": 600,
+            "category": "cerveja lata",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0025",
+            "name": "Devassa",
+            "description": "",
+            "size": null,
+            "price": 400,
+            "category": "cerveja lata",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0026",
+            "name": "Heineken",
+            "description": "",
+            "size": null,
+            "price": 600,
+            "category": "cerveja lata",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0027",
+            "name": "Itaipava",
+            "description": "",
+            "size": null,
+            "price": 300,
+            "category": "cerveja lata",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0028",
+            "name": "Skol",
+            "description": "",
+            "size": null,
+            "price": 300,
+            "category": "cerveja lata",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0029",
+            "name": "Spaten",
+            "description": "",
+            "size": null,
+            "price": 600,
+            "category": "cerveja lata",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0030",
+            "name": "Stella Artois",
+            "description": "",
+            "size": null,
+            "price": 600,
+            "category": "cerveja lata",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0031",
+            "name": "Amstel",
+            "description": "",
+            "size": 600,
+            "price": 1000,
+            "category": "cerveja 600",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0032",
+            "name": "Brahma Chopp",
+            "description": "",
+            "size": 600,
+            "price": 900,
+            "category": "cerveja 600",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0033",
+            "name": "Devassa",
+            "description": "",
+            "size": 600,
+            "price": 900,
+            "category": "cerveja 600",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0034",
+            "name": "Heineken",
+            "description": "",
+            "size": 600,
+            "price": 1500,
+            "category": "cerveja 600",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0035",
+            "name": "Skol",
+            "description": "",
+            "size": 600,
+            "price": 900,
+            "category": "cerveja 600",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0036",
+            "name": "Spaten",
+            "description": "",
+            "size": 600,
+            "price": 1300,
+            "category": "cerveja 600",
+            "isAvailable": true
+        },
+        {
+            "id": "bebi0037",
+            "name": "Stella Artois",
+            "description": "",
+            "size": 600,
+            "price": 1300,
+            "category": "cerveja 600",
+            "isAvailable": true
+        }
+    ]
+}
