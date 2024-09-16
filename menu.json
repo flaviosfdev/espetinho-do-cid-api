@@ -104,7 +104,16 @@
         },
         {
             "id": "spec0004",
-            "name": "Kafta",
+            "name": "Kafta de boi",
+            "description": "",
+            "size": null,
+            "price": 800,
+            "category": "espeto especial",
+            "isAvailable": true
+        },
+        {
+            "id": "spec0005",
+            "name": "Kafta de carneiro",
             "description": "",
             "size": null,
             "price": 800,
