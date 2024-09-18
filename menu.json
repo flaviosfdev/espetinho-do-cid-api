@@ -15,7 +15,7 @@
         {
             "id": "trad0001",
             "name": "Carne",
-            "description": "",
+            "description": null,
             "size": null,
             "price": 700,
             "category": "espeto tradicional",
@@ -24,7 +24,7 @@
         {
             "id": "trad0002",
             "name": "Frango",
-            "description": "",
+            "description": null,
             "size": null,
             "price": 700,
             "category": "espeto tradicional",
@@ -33,7 +33,7 @@
         {
             "id": "trad0003",
             "name": "Calabresa",
-            "description": "",
+            "description": null,
             "size": null,
             "price": 700,
             "category": "espeto tradicional",
@@ -42,7 +42,7 @@
         {
             "id": "trad0004",
             "name": "Coração de frango",
-            "description": "",
+            "description": null,
             "size": null,
             "price": 700,
             "category": "espeto tradicional",
@@ -51,7 +51,7 @@
         {
             "id": "trad0005",
             "name": "Coração de boi",
-            "description": "",
+            "description": null,
             "size": null,
             "price": 700,
             "category": "espeto tradicional",
@@ -60,7 +60,7 @@
         {
             "id": "trad0006",
             "name": "Porco",
-            "description": "",
+            "description": null,
             "size": null,
             "price": 700,
             "category": "espeto tradicional",
@@ -69,7 +69,7 @@
         {
             "id": "trad0007",
             "name": "Queijo coalho",
-            "description": "",
+            "description": null,
             "size": null,
             "price": 700,
             "category": "espeto tradicional",
@@ -78,7 +78,7 @@
         {
             "id": "spec0001",
             "name": "Carne com bacon",
-            "description": "",
+            "description": null,
             "size": null,
             "price": 800,
             "category": "espeto especial",
@@ -87,7 +87,7 @@
         {
             "id": "spec0002",
             "name": "Frago com bacon",
-            "description": "",
+            "description": null,
             "size": null,
             "price": 800,
             "category": "espeto especial",
@@ -96,7 +96,7 @@
         {
             "id": "spec0003",
             "name": "Ovo com bacon",
-            "description": "",
+            "description": null,
             "size": null,
             "price": 800,
             "category": "espeto especial",
@@ -105,7 +105,7 @@
         {
             "id": "spec0004",
             "name": "Kafta de boi",
-            "description": "",
+            "description": null,
             "size": null,
             "price": 800,
             "category": "espeto especial",
@@ -114,7 +114,7 @@
         {
             "id": "spec0005",
             "name": "Kafta de carneiro",
-            "description": "",
+            "description": null,
             "size": null,
             "price": 800,
             "category": "espeto especial",
@@ -123,7 +123,7 @@
         {
             "id": "peti0001",
             "name": "Batata frita",
-            "description": "",
+            "description": null,
             "size": null,
             "price": 1000,
             "category": "petisco",
@@ -132,7 +132,7 @@
         {
             "id": "peti0002",
             "name": "Cubinho de macaxeira",
-            "description": "",
+            "description": null,
             "size": null,
             "price": 1400,
             "category": "petisco",
@@ -141,7 +141,7 @@
         {
             "id": "peti0003",
             "name": "Filé com fritas",
-            "description": "",
+            "description": null,
             "size": null,
             "price": 3000,
             "category": "petisco",
@@ -150,7 +150,7 @@
         {
             "id": "peti0004",
             "name": "Calabresa com fritas",
-            "description": "",
+            "description": null,
             "size": null,
             "price": 2200,
             "category": "petisco",
@@ -159,7 +159,7 @@
         {
             "id": "bebi0001",
             "name": "Água mineral sem gás",
-            "description": "",
+            "description": null,
             "size": 500,
             "price": 200,
             "category": "bebida",
@@ -168,7 +168,7 @@
         {
             "id": "bebi0002",
             "name": "Água mineral com gás",
-            "description": "",
+            "description": null,
             "size": 500,
             "price": 300,
             "category": "bebida",
@@ -177,7 +177,7 @@
         {
             "id": "bebi0003",
             "name": "Redbull",
-            "description": "",
+            "description": null,
             "size": 250,
             "price": 1000,
             "category": "bebida",
@@ -186,7 +186,7 @@
         {
             "id": "bebi0004",
             "name": "Ice cabaré",
-            "description": "",
+            "description": null,
             "size": 275,
             "price": 1000,
             "category": "bebida",
@@ -195,7 +195,7 @@
         {
             "id": "bebi0005",
             "name": "Refrigerante Lata",
-            "description": "",
+            "description": null,
             "size": 350,
             "price": 400,
             "category": "bebida",
@@ -204,7 +204,7 @@
         {
             "id": "bebi0006",
             "name": "Refrigerante 1L",
-            "description": "",
+            "description": null,
             "size": 1000,
             "price": 700,
             "category": "bebida",
@@ -213,7 +213,7 @@
         {
             "id": "bebi0007",
             "name": "Ypióca lata",
-            "description": "",
+            "description": null,
             "size": 350,
             "price": 1000,
             "category": "bebida",
@@ -222,7 +222,7 @@
         {
             "id": "bebi0008",
             "name": "Cachaça 51",
-            "description": "",
+            "description": null,
             "size": 350,
             "price": 800,
             "category": "bebida",
@@ -231,7 +231,7 @@
         {
             "id": "bebi0009",
             "name": "Cachaça Carangueijo Ouro",
-            "description": "",
+            "description": null,
             "size": 350,
             "price": 800,
             "category": "bebida",
@@ -240,7 +240,7 @@
         {
             "id": "bebi0010",
             "name": "Cachaça Carangueijo Prata",
-            "description": "",
+            "description": null,
             "size": 350,
             "price": 800,
             "category": "bebida",
@@ -249,7 +249,7 @@
         {
             "id": "bebi0011",
             "name": "Brahma Chopp",
-            "description": "",
+            "description": null,
             "size": 300,
             "price": 400,
             "category": "litrinho",
@@ -258,7 +258,7 @@
         {
             "id": "bebi0012",
             "name": "Devassa",
-            "description": "",
+            "description": null,
             "size": 300,
             "price": 400,
             "category": "litrinho",
@@ -267,7 +267,7 @@
         {
             "id": "bebi0013",
             "name": "Itaipava",
-            "description": "",
+            "description": null,
             "size": 300,
             "price": 400,
             "category": "litrinho",
@@ -276,7 +276,7 @@
         {
             "id": "bebi0014",
             "name": "Skol",
-            "description": "",
+            "description": null,
             "size": 300,
             "price": 400,
             "category": "litrinho",
@@ -285,7 +285,7 @@
         {
             "id": "bebi0015",
             "name": "Budweiser",
-            "description": "",
+            "description": null,
             "size": 330,
             "price": 800,
             "category": "long neck",
@@ -294,7 +294,7 @@
         {
             "id": "bebi0016",
             "name": "Corona",
-            "description": "",
+            "description": null,
             "size": 330,
             "price": 800,
             "category": "long neck",
@@ -303,7 +303,7 @@
         {
             "id": "bebi0017",
             "name": "Heineken",
-            "description": "",
+            "description": null,
             "size": 330,
             "price": 800,
             "category": "long neck",
@@ -312,7 +312,7 @@
         {
             "id": "bebi0018",
             "name": "Spaten",
-            "description": "",
+            "description": null,
             "size": 355,
             "price": 800,
             "category": "long neck",
@@ -321,7 +321,7 @@
         {
             "id": "bebi0019",
             "name": "Stella Artois",
-            "description": "",
+            "description": null,
             "size": 330,
             "price": 800,
             "category": "long neck",
@@ -330,7 +330,7 @@
         {
             "id": "bebi0020",
             "name": "Amstel",
-            "description": "",
+            "description": null,
             "size": null,
             "price": 400,
             "category": "cerveja lata",
@@ -339,7 +339,7 @@
         {
             "id": "bebi0021",
             "name": "Brahma Chopp",
-            "description": "",
+            "description": null,
             "size": null,
             "price": 400,
             "category": "cerveja lata",
@@ -348,7 +348,7 @@
         {
             "id": "bebi0022",
             "name": "Brahma Duplo Malte",
-            "description": "",
+            "description": null,
             "size": null,
             "price": 400,
             "category": "cerveja lata",
@@ -357,7 +357,7 @@
         {
             "id": "bebi0023",
             "name": "Budweiser",
-            "description": "",
+            "description": null,
             "size": null,
             "price": 600,
             "category": "cerveja lata",
@@ -366,7 +366,7 @@
         {
             "id": "bebi0024",
             "name": "Corona",
-            "description": "",
+            "description": null,
             "size": null,
             "price": 600,
             "category": "cerveja lata",
@@ -375,7 +375,7 @@
         {
             "id": "bebi0025",
             "name": "Devassa",
-            "description": "",
+            "description": null,
             "size": null,
             "price": 400,
             "category": "cerveja lata",
@@ -384,7 +384,7 @@
         {
             "id": "bebi0026",
             "name": "Heineken",
-            "description": "",
+            "description": null,
             "size": null,
             "price": 600,
             "category": "cerveja lata",
@@ -393,7 +393,7 @@
         {
             "id": "bebi0027",
             "name": "Itaipava",
-            "description": "",
+            "description": null,
             "size": null,
             "price": 300,
             "category": "cerveja lata",
@@ -402,7 +402,7 @@
         {
             "id": "bebi0028",
             "name": "Skol",
-            "description": "",
+            "description": null,
             "size": null,
             "price": 300,
             "category": "cerveja lata",
@@ -411,7 +411,7 @@
         {
             "id": "bebi0029",
             "name": "Spaten",
-            "description": "",
+            "description": null,
             "size": null,
             "price": 600,
             "category": "cerveja lata",
@@ -420,7 +420,7 @@
         {
             "id": "bebi0030",
             "name": "Stella Artois",
-            "description": "",
+            "description": null,
             "size": null,
             "price": 600,
             "category": "cerveja lata",
@@ -429,7 +429,7 @@
         {
             "id": "bebi0031",
             "name": "Amstel",
-            "description": "",
+            "description": null,
             "size": 600,
             "price": 1000,
             "category": "cerveja 600",
@@ -438,7 +438,7 @@
         {
             "id": "bebi0032",
             "name": "Brahma Chopp",
-            "description": "",
+            "description": null,
             "size": 600,
             "price": 900,
             "category": "cerveja 600",
@@ -447,7 +447,7 @@
         {
             "id": "bebi0033",
             "name": "Devassa",
-            "description": "",
+            "description": null,
             "size": 600,
             "price": 900,
             "category": "cerveja 600",
@@ -456,7 +456,7 @@
         {
             "id": "bebi0034",
             "name": "Heineken",
-            "description": "",
+            "description": null,
             "size": 600,
             "price": 1500,
             "category": "cerveja 600",
@@ -465,7 +465,7 @@
         {
             "id": "bebi0035",
             "name": "Skol",
-            "description": "",
+            "description": null,
             "size": 600,
             "price": 900,
             "category": "cerveja 600",
@@ -474,7 +474,7 @@
         {
             "id": "bebi0036",
             "name": "Spaten",
-            "description": "",
+            "description": null,
             "size": 600,
             "price": 1300,
             "category": "cerveja 600",
@@ -483,7 +483,7 @@
         {
             "id": "bebi0037",
             "name": "Stella Artois",
-            "description": "",
+            "description": null,
             "size": 600,
             "price": 1300,
             "category": "cerveja 600",
