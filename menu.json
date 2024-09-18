@@ -1,16 +1,49 @@
 {
     "categories": [
-        "espeto tradicional",
-        "espeto especial",
-        "petisco",
-        "bebida",
-        "litrinho",
-        "long neck",
-        "cerveja lata",
-        "cerveja 600",
-        "combo",
-        "promocao",
-        "mais pedido"
+        {
+            "id": 1,
+            "name": "espetinho tradicional"
+        },
+        {
+            "id": 2,
+            "name": "espetinho especial"
+        },
+        {
+            "id": 3,
+            "name": "petisco"
+        },
+        {
+            "id": 4,
+            "name": "bebida"
+        },
+        {
+            "id": 5,
+            "name": "litrinho"
+        },
+        {
+            "id": 6,
+            "name": "longneck"
+        },
+        {
+            "id": 7,
+            "name": "cerveja lata"
+        },
+        {
+            "id": 8,
+            "name": "ceveja 600"
+        },
+        {
+            "id": 9,
+            "name": "combo"
+        },
+        {
+            "id": 10,
+            "name": "promocao"
+        },
+        {
+            "id": 11,
+            "name": "mais pedido"
+        }
     ],
     "menu": [
         {
@@ -19,7 +52,7 @@
             "description": null,
             "size": null,
             "price": 700,
-            "category": "espeto tradicional",
+            "category": 1,
             "isAvailable": true
         },
         {
@@ -28,7 +61,7 @@
             "description": null,
             "size": null,
             "price": 700,
-            "category": "espeto tradicional",
+            "category": 1,
             "isAvailable": true
         },
         {
@@ -37,7 +70,7 @@
             "description": null,
             "size": null,
             "price": 700,
-            "category": "espeto tradicional",
+            "category": 1,
             "isAvailable": true
         },
         {
@@ -46,7 +79,7 @@
             "description": null,
             "size": null,
             "price": 700,
-            "category": "espeto tradicional",
+            "category": 1,
             "isAvailable": true
         },
         {
@@ -55,7 +88,7 @@
             "description": null,
             "size": null,
             "price": 700,
-            "category": "espeto tradicional",
+            "category": 1,
             "isAvailable": true
         },
         {
@@ -64,7 +97,7 @@
             "description": null,
             "size": null,
             "price": 700,
-            "category": "espeto tradicional",
+            "category": 1,
             "isAvailable": true
         },
         {
@@ -73,7 +106,7 @@
             "description": null,
             "size": null,
             "price": 700,
-            "category": "espeto tradicional",
+            "category": 1,
             "isAvailable": true
         },
         {
@@ -82,7 +115,7 @@
             "description": null,
             "size": null,
             "price": 800,
-            "category": "espeto especial",
+            "category": 2,
             "isAvailable": true
         },
         {
@@ -91,7 +124,7 @@
             "description": null,
             "size": null,
             "price": 800,
-            "category": "espeto especial",
+            "category": 2,
             "isAvailable": true
         },
         {
@@ -100,7 +133,7 @@
             "description": null,
             "size": null,
             "price": 800,
-            "category": "espeto especial",
+            "category": 2,
             "isAvailable": true
         },
         {
@@ -109,7 +142,7 @@
             "description": null,
             "size": null,
             "price": 800,
-            "category": "espeto especial",
+            "category": 2,
             "isAvailable": true
         },
         {
@@ -118,7 +151,7 @@
             "description": null,
             "size": null,
             "price": 800,
-            "category": "espeto especial",
+            "category": 2,
             "isAvailable": true
         },
         {
@@ -127,7 +160,7 @@
             "description": null,
             "size": null,
             "price": 1000,
-            "category": "petisco",
+            "category": 3,
             "isAvailable": true
         },
         {
@@ -136,7 +169,7 @@
             "description": null,
             "size": null,
             "price": 1400,
-            "category": "petisco",
+            "category": 3,
             "isAvailable": true
         },
         {
@@ -145,7 +178,7 @@
             "description": null,
             "size": null,
             "price": 3000,
-            "category": "petisco",
+            "category": 3,
             "isAvailable": true
         },
         {
@@ -154,7 +187,7 @@
             "description": null,
             "size": null,
             "price": 2200,
-            "category": "petisco",
+            "category": 3,
             "isAvailable": true
         },
         {
@@ -163,7 +196,7 @@
             "description": null,
             "size": 500,
             "price": 200,
-            "category": "bebida",
+            "category": 4,
             "isAvailable": true
         },
         {
@@ -172,7 +205,7 @@
             "description": null,
             "size": 500,
             "price": 300,
-            "category": "bebida",
+            "category": 4,
             "isAvailable": true
         },
         {
@@ -181,7 +214,7 @@
             "description": null,
             "size": 250,
             "price": 1000,
-            "category": "bebida",
+            "category": 4,
             "isAvailable": true
         },
         {
@@ -190,7 +223,7 @@
             "description": null,
             "size": 275,
             "price": 1000,
-            "category": "bebida",
+            "category": 4,
             "isAvailable": true
         },
         {
@@ -199,7 +232,7 @@
             "description": null,
             "size": 350,
             "price": 400,
-            "category": "bebida",
+            "category": 4,
             "isAvailable": true
         },
         {
@@ -208,7 +241,7 @@
             "description": null,
             "size": 1000,
             "price": 700,
-            "category": "bebida",
+            "category": 4,
             "isAvailable": true
         },
         {
@@ -217,7 +250,7 @@
             "description": null,
             "size": 350,
             "price": 1000,
-            "category": "bebida",
+            "category": 4,
             "isAvailable": true
         },
         {
@@ -226,7 +259,7 @@
             "description": null,
             "size": 350,
             "price": 800,
-            "category": "bebida",
+            "category": 4,
             "isAvailable": true
         },
         {
@@ -235,7 +268,7 @@
             "description": null,
             "size": 350,
             "price": 800,
-            "category": "bebida",
+            "category": 4,
             "isAvailable": true
         },
         {
@@ -244,7 +277,7 @@
             "description": null,
             "size": 350,
             "price": 800,
-            "category": "bebida",
+            "category": 4,
             "isAvailable": true
         },
         {
@@ -253,7 +286,7 @@
             "description": null,
             "size": 300,
             "price": 400,
-            "category": "litrinho",
+            "category": 5,
             "isAvailable": true
         },
         {
@@ -262,7 +295,7 @@
             "description": null,
             "size": 300,
             "price": 400,
-            "category": "litrinho",
+            "category": 5,
             "isAvailable": true
         },
         {
@@ -271,7 +304,7 @@
             "description": null,
             "size": 300,
             "price": 400,
-            "category": "litrinho",
+            "category": 5,
             "isAvailable": true
         },
         {
@@ -280,7 +313,7 @@
             "description": null,
             "size": 300,
             "price": 400,
-            "category": "litrinho",
+            "category": 5,
             "isAvailable": true
         },
         {
@@ -289,7 +322,7 @@
             "description": null,
             "size": 330,
             "price": 800,
-            "category": "long neck",
+            "category": 6,
             "isAvailable": true
         },
         {
@@ -298,7 +331,7 @@
             "description": null,
             "size": 330,
             "price": 800,
-            "category": "long neck",
+            "category": 6,
             "isAvailable": true
         },
         {
@@ -307,7 +340,7 @@
             "description": null,
             "size": 330,
             "price": 800,
-            "category": "long neck",
+            "category": 6,
             "isAvailable": true
         },
         {
@@ -316,7 +349,7 @@
             "description": null,
             "size": 355,
             "price": 800,
-            "category": "long neck",
+            "category": 6,
             "isAvailable": true
         },
         {
@@ -325,7 +358,7 @@
             "description": null,
             "size": 330,
             "price": 800,
-            "category": "long neck",
+            "category": 6,
             "isAvailable": true
         },
         {
@@ -334,7 +367,7 @@
             "description": null,
             "size": null,
             "price": 400,
-            "category": "cerveja lata",
+            "category": 7,
             "isAvailable": true
         },
         {
@@ -343,7 +376,7 @@
             "description": null,
             "size": null,
             "price": 400,
-            "category": "cerveja lata",
+            "category": 7,
             "isAvailable": true
         },
         {
@@ -352,7 +385,7 @@
             "description": null,
             "size": null,
             "price": 400,
-            "category": "cerveja lata",
+            "category": 7,
             "isAvailable": true
         },
         {
@@ -361,7 +394,7 @@
             "description": null,
             "size": null,
             "price": 600,
-            "category": "cerveja lata",
+            "category": 7,
             "isAvailable": true
         },
         {
@@ -370,7 +403,7 @@
             "description": null,
             "size": null,
             "price": 600,
-            "category": "cerveja lata",
+            "category": 7,
             "isAvailable": true
         },
         {
@@ -379,7 +412,7 @@
             "description": null,
             "size": null,
             "price": 400,
-            "category": "cerveja lata",
+            "category": 7,
             "isAvailable": true
         },
         {
@@ -388,7 +421,7 @@
             "description": null,
             "size": null,
             "price": 600,
-            "category": "cerveja lata",
+            "category": 7,
             "isAvailable": true
         },
         {
@@ -397,7 +430,7 @@
             "description": null,
             "size": null,
             "price": 300,
-            "category": "cerveja lata",
+            "category": 7,
             "isAvailable": true
         },
         {
@@ -406,7 +439,7 @@
             "description": null,
             "size": null,
             "price": 300,
-            "category": "cerveja lata",
+            "category": 7,
             "isAvailable": true
         },
         {
@@ -415,7 +448,7 @@
             "description": null,
             "size": null,
             "price": 600,
-            "category": "cerveja lata",
+            "category": 7,
             "isAvailable": true
         },
         {
@@ -424,7 +457,7 @@
             "description": null,
             "size": null,
             "price": 600,
-            "category": "cerveja lata",
+            "category": 7,
             "isAvailable": true
         },
         {
@@ -433,7 +466,7 @@
             "description": null,
             "size": 600,
             "price": 1000,
-            "category": "cerveja 600",
+            "category": 8,
             "isAvailable": true
         },
         {
@@ -442,7 +475,7 @@
             "description": null,
             "size": 600,
             "price": 900,
-            "category": "cerveja 600",
+            "category": 8,
             "isAvailable": true
         },
         {
@@ -451,7 +484,7 @@
             "description": null,
             "size": 600,
             "price": 900,
-            "category": "cerveja 600",
+            "category": 8,
             "isAvailable": true
         },
         {
@@ -460,7 +493,7 @@
             "description": null,
             "size": 600,
             "price": 1500,
-            "category": "cerveja 600",
+            "category": 8,
             "isAvailable": true
         },
         {
@@ -469,7 +502,7 @@
             "description": null,
             "size": 600,
             "price": 900,
-            "category": "cerveja 600",
+            "category": 8,
             "isAvailable": true
         },
         {
@@ -478,7 +511,7 @@
             "description": null,
             "size": 600,
             "price": 1300,
-            "category": "cerveja 600",
+            "category": 8,
             "isAvailable": true
         },
         {
@@ -487,7 +520,7 @@
             "description": null,
             "size": 600,
             "price": 1300,
-            "category": "cerveja 600",
+            "category": 8,
             "isAvailable": true
         }
     ]
