@@ -208,8 +208,8 @@
         },
         {
             "id": "bebi0001",
-            "name": "Água mineral sem gás",
-            "description": null,
+            "name": "Água mineral",
+            "description": "Sem gás",
             "imageUrl": null,
             "size": 500,
             "price": 200,
@@ -219,7 +219,7 @@
         {
             "id": "bebi0002",
             "name": "Água mineral com gás",
-            "description": null,
+            "description": "Com gás",
             "imageUrl": null,
             "size": 500,
             "price": 300,
