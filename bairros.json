@@ -1,0 +1,277 @@
+{
+    "deliveryTax": [
+        {
+            "neighborhood": "Abolição 1",
+            "deliveryFee": 900
+        },
+        {
+            "neighborhood": "Abolição 2",
+            "deliveryFee": 900
+        },
+        {
+            "neighborhood": "Abolição 3",
+            "deliveryFee": 1200
+        },
+        {
+            "neighborhood": "AeC",
+            "deliveryFee": 500
+        },
+        {
+            "neighborhood": "Aeroporto",
+            "deliveryFee": 1000
+        },
+        {
+            "neighborhood": "Alameda dos Cajueiros",
+            "deliveryFee": 1200
+        },
+        {
+            "neighborhood": "Alto da Conceição",
+            "deliveryFee": 1000
+        },
+        {
+            "neighborhood": "",
+            "deliveryFee": 0
+        },
+        {
+            "neighborhood": "",
+            "deliveryFee": 0
+        },
+        {
+            "neighborhood": "",
+            "deliveryFee": 0
+        },
+        {
+            "neighborhood": "",
+            "deliveryFee": 0
+        },
+        {
+            "neighborhood": "",
+            "deliveryFee": 0
+        },
+        {
+            "neighborhood": "",
+            "deliveryFee": 0
+        },
+        {
+            "neighborhood": "",
+            "deliveryFee": 0
+        },
+        {
+            "neighborhood": "",
+            "deliveryFee": 0
+        },
+        {
+            "neighborhood": "",
+            "deliveryFee": 0
+        },
+        {
+            "neighborhood": "",
+            "deliveryFee": 0
+        },
+        {
+            "neighborhood": "",
+            "deliveryFee": 0
+        },
+        {
+            "neighborhood": "",
+            "deliveryFee": 0
+        },
+        {
+            "neighborhood": "",
+            "deliveryFee": 0
+        },
+        {
+            "neighborhood": "",
+            "deliveryFee": 0
+        },
+        {
+            "neighborhood": "",
+            "deliveryFee": 0
+        },
+        {
+            "neighborhood": "",
+            "deliveryFee": 0
+        },
+        {
+            "neighborhood": "",
+            "deliveryFee": 0
+        },
+        {
+            "neighborhood": "",
+            "deliveryFee": 0
+        },
+        {
+            "neighborhood": "",
+            "deliveryFee": 0
+        },
+        {
+            "neighborhood": "",
+            "deliveryFee": 0
+        },
+        {
+            "neighborhood": "",
+            "deliveryFee": 0
+        },
+        {
+            "neighborhood": "",
+            "deliveryFee": 0
+        },
+        {
+            "neighborhood": "",
+            "deliveryFee": 0
+        },
+        {
+            "neighborhood": "",
+            "deliveryFee": 0
+        },
+        {
+            "neighborhood": "",
+            "deliveryFee": 0
+        },
+        {
+            "neighborhood": "",
+            "deliveryFee": 0
+        },
+        {
+            "neighborhood": "",
+            "deliveryFee": 0
+        },
+        {
+            "neighborhood": "",
+            "deliveryFee": 0
+        }
+    ]
+}
+
+Endereço para retirar pedidos
+
+Av. Presidente Dutra
+Ilha de Santa Luzia - Mossoró - RN
+
+
+Alto São Manoel	R$ 6,
+00
+Belo Horizonte	R$ 8,
+00
+Boa Vista	R$ 6,
+00
+Bom Jardim	R$ 8,
+00
+Centro	R$ 5,
+00
+Cidade Alta ,alto Sumare.	R$ 12,
+00
+Coab	R$ 6,
+00
+Colegio Diocesano	R$ 7,
+00
+Condomínio Bella Residence	R$ 10,
+00
+Condominio Central Park	R$ 7,
+00
+Condomínio Ecoville	R$ 10,
+00
+Condomínio Quintas do Lago Mossoró (entrega Ate 23hrs )	R$ 12,
+00
+Condomínio Residencial Espaço Vida	R$ 7,
+00
+Condomínio Veronique	R$ 12,
+00
+Condomínio Villa Lobos	R$ 8,
+00
+Costa Silva	R$ 8,
+00
+Dom Jaime Câmara	R$ 10,
+00
+Doze Anos	R$ 6,
+00
+Ecoresidencial Gênesis	R$ 6,
+00
+Hospital Hapvida	R$ 8,
+00
+Hospital Maternidade Almeida Castro	R$ 4,
+00
+Hospital R Tarcisio Maia	R$ 8,
+00
+Hospital Rafael Fernandes	R$ 5,
+00
+Hospital Wilson Rosado	R$ 5,
+00
+Hotel Garbos	R$ 10,
+00
+Hotel Termas	R$ 12,
+00
+Hotel Villaoeste	R$ 4,
+00
+Ilha de Santa Luzia	R$ 5,
+00
+Lagoa do Mato	R$ 7,
+00
+Liberdade	R$ 8,
+00
+Monte Olimpo	R$ 12,
+00
+Ninho	R$ 10,
+00
+Nova Betania	R$ 10,
+00
+Otavio Ferreira 1	R$ 10,
+00
+Otavio Ferreira 2	R$ 10,
+00
+Otavio Ferreira 3	R$ 10,
+00
+Paredões	R$ 6,
+00
+Partage Shopping Mossoró	R$ 12,
+00
+Pintos	R$ 8,
+00
+Planalto	R$ 7,
+00
+Pousada Izamar	R$ 6,
+00
+Pousada Martins	R$ 7,
+00
+Pousada Mossoró	R$ 5,
+00
+Pousada São João	R$ 5,
+00
+Residencial Alameda Planalto	R$ 10,
+00
+Residencial Alphaville	R$ 12,
+00
+Residencial Celina Guimarães	R$ 10,
+00
+Residencial Dolce Vita	R$ 8,
+00
+Residencial Esplanada Rio Branco	R$ 10,
+00
+Residencial Jardins do Alto	R$ 8,
+00
+Residencial Jardins do Termas	R$ 10,
+00
+Residencial Neo Ville	R$ 8,
+00
+Residencial Rubens Pinto	R$ 10,
+00
+Residencial Solar Das Palmeiras	R$ 8,
+00
+Residencial Terra da Liberdade	R$ 12,
+00
+Santo Antonio	R$ 10,
+00
+Sumaré	R$ 12,
+00
+Sun Ville	R$ 10,
+00
+Uern - Universidade do Estado do Rio Grande do Norte	R$ 8,
+00
+Vingt Rosado 1 Etapa	R$ 10,
+00
+Vingt Rosado 2	R$ 12,
+00
+
+
+
+home pedidos favoritos configuracoes
