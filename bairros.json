@@ -29,249 +29,254 @@
             "deliveryFee": 1000
         },
         {
-            "neighborhood": "",
-            "deliveryFee": 0
+            "neighborhood": "Alto São Manoel",
+            "deliveryFee": 600
+        },
+        {
+            "neighborhood": "Belo Horizonte",
+            "deliveryFee": 800
+        },
+        {
+            "neighborhood": "Boa Vista",
+            "deliveryFee": 600
+        },
+        {
+            "neighborhood": "Bom Jardim",
+            "deliveryFee": 800
+        },
+        {
+            "neighborhood": "Centro",
+            "deliveryFee": 800
+        },
+        {
+            "neighborhood": "Cidade Alta",
+            "deliveryFee": 800
+        },
+        {
+            "neighborhood": "Alto Sumaré",
+            "deliveryFee": 800
+        },
+        {
+            "neighborhood": "Coab",
+            "deliveryFee": 800
+        },
+        {
+            "neighborhood": "Colégio Diocesano",
+            "deliveryFee": 800
+        },
+        {
+            "neighborhood": "Comunidade Bela Residence",
+            "deliveryFee": 800
+        },
+        {
+            "neighborhood": "Condomínio Central Park",
+            "deliveryFee": 1000
+        },
+        {
+            "neighborhood": "Condomínio Ecoville",
+            "deliveryFee": 1000
+        },
+        {
+            "neighborhood": "Condomínio Quintas do Lago",
+            "deliveryFee": 1000
+        },
+        {
+            "neighborhood": "Condomínio Residencial Espaço Vida",
+            "deliveryFee": 1000
+        },
+        {
+            "neighborhood": "Condomínio Veronique",
+            "deliveryFee": 1000
+        },
+        {
+            "neighborhood": "Condomínio Villa Lobos",
+            "deliveryFee": 1000
+        },
+        {
+            "neighborhood": "Costa e Silva",
+            "deliveryFee": 1000
+        },
+        {
+            "neighborhood": "Dom Jaime Câmara",
+            "deliveryFee": 1000
+        },
+        {
+            "neighborhood": "Doze Anos",
+            "deliveryFee": 1000
+        },
+        {
+            "neighborhood": "Ecoresidencial Gênesis",
+            "deliveryFee": 1000
+        },
+        {
+            "neighborhood": "Hospital Hapvida",
+            "deliveryFee": 1000
+        },
+        {
+            "neighborhood": "Hospital Maternidade Almeida Castro",
+            "deliveryFee": 1000
+        },
+        {
+            "neighborhood": "Hospital Tarcísio Maia",
+            "deliveryFee": 1000
+        },
+        {
+            "neighborhood": "Hospital Rafael Fernandes",
+            "deliveryFee": 1000
+        },
+        {
+            "neighborhood": "Hospital Wilson Rosado",
+            "deliveryFee": 1000
         },
         {
             "neighborhood": "",
-            "deliveryFee": 0
+            "deliveryFee": 1000
         },
         {
-            "neighborhood": "",
-            "deliveryFee": 0
+            "neighborhood": "Hotal Garbos",
+            "deliveryFee": 1000
         },
         {
-            "neighborhood": "",
-            "deliveryFee": 0
+            "neighborhood": "Hotel Thermas",
+            "deliveryFee": 1000
         },
         {
-            "neighborhood": "",
-            "deliveryFee": 0
+            "neighborhood": "Hotel Villa Oeste",
+            "deliveryFee": 1000
         },
         {
-            "neighborhood": "",
-            "deliveryFee": 0
+            "neighborhood": "Ilha de Santa Luzia",
+            "deliveryFee": 1000
         },
         {
-            "neighborhood": "",
-            "deliveryFee": 0
+            "neighborhood": "Lagoa do Mato",
+            "deliveryFee": 1000
         },
         {
-            "neighborhood": "",
-            "deliveryFee": 0
+            "neighborhood": "Liberdade",
+            "deliveryFee": 1000
         },
         {
-            "neighborhood": "",
-            "deliveryFee": 0
+            "neighborhood": "Monte Olimpo",
+            "deliveryFee": 1000
         },
         {
-            "neighborhood": "",
-            "deliveryFee": 0
+            "neighborhood": "Ninho Residencial",
+            "deliveryFee": 1000
         },
         {
-            "neighborhood": "",
-            "deliveryFee": 0
+            "neighborhood": "Nova Betânia",
+            "deliveryFee": 1000
         },
         {
-            "neighborhood": "",
-            "deliveryFee": 0
+            "neighborhood": "Residencial Otávio Ferreira 1",
+            "deliveryFee": 1000
         },
         {
-            "neighborhood": "",
-            "deliveryFee": 0
+            "neighborhood": "Residencial Otávio Ferreira 2",
+            "deliveryFee": 1000
         },
         {
-            "neighborhood": "",
-            "deliveryFee": 0
+            "neighborhood": "Residencial Otávio Ferreira 3",
+            "deliveryFee": 1000
         },
         {
-            "neighborhood": "",
-            "deliveryFee": 0
+            "neighborhood": "Paredões",
+            "deliveryFee": 1000
         },
         {
-            "neighborhood": "",
-            "deliveryFee": 0
+            "neighborhood": "Partage Shopping",
+            "deliveryFee": 1000
         },
         {
-            "neighborhood": "",
-            "deliveryFee": 0
+            "neighborhood": "Pintos",
+            "deliveryFee": 1000
         },
         {
-            "neighborhood": "",
-            "deliveryFee": 0
+            "neighborhood": "Planalto",
+            "deliveryFee": 1000
         },
         {
-            "neighborhood": "",
-            "deliveryFee": 0
+            "neighborhood": "Pousada Izamar",
+            "deliveryFee": 1000
         },
         {
-            "neighborhood": "",
-            "deliveryFee": 0
+            "neighborhood": "Pousada Martins",
+            "deliveryFee": 1000
         },
         {
-            "neighborhood": "",
-            "deliveryFee": 0
+            "neighborhood": "Pousada Mossoró",
+            "deliveryFee": 1000
         },
         {
-            "neighborhood": "",
-            "deliveryFee": 0
+            "neighborhood": "Pousada São João",
+            "deliveryFee": 1000
         },
         {
-            "neighborhood": "",
-            "deliveryFee": 0
+            "neighborhood": "Residencial Alameda Planalto",
+            "deliveryFee": 1000
         },
         {
-            "neighborhood": "",
-            "deliveryFee": 0
+            "neighborhood": "Residencial Alphaville",
+            "deliveryFee": 1000
         },
         {
-            "neighborhood": "",
-            "deliveryFee": 0
+            "neighborhood": "Residencial Celina Guimarães",
+            "deliveryFee": 1000
         },
         {
-            "neighborhood": "",
-            "deliveryFee": 0
+            "neighborhood": "Residencial Dolce Vita",
+            "deliveryFee": 1000
         },
         {
-            "neighborhood": "",
-            "deliveryFee": 0
+            "neighborhood": "Residencial Esplanada Rio Branco",
+            "deliveryFee": 1000
         },
         {
-            "neighborhood": "",
-            "deliveryFee": 0
+            "neighborhood": "Residencial Jardins do Thermas",
+            "deliveryFee": 1000
+        },
+        {
+            "neighborhood": "Residencial Neo Ville",
+            "deliveryFee": 1000
+        },
+        {
+            "neighborhood": "Residencial Rubens Pinto",
+            "deliveryFee": 1000
+        },
+        {
+            "neighborhood": "Residencial Solar das Palmeiras",
+            "deliveryFee": 1000
+        },
+        {
+            "neighborhood": "Residencial Terra da Liberdade",
+            "deliveryFee": 1000
+        },
+        {
+            "neighborhood": "Santo Antônio",
+            "deliveryFee": 1000
+        },
+        {
+            "neighborhood": "Sumaré",
+            "deliveryFee": 1000
+        },
+        {
+            "neighborhood": "Sun Ville",
+            "deliveryFee": 1000
+        },
+        {
+            "neighborhood": "UERN",
+            "deliveryFee": 1000
+        },
+        {
+            "neighborhood": "Vingt Rosado Etapa 1",
+            "deliveryFee": 1000
+        },
+        {
+            "neighborhood": "Vingt Rosado Etapa 2",
+            "deliveryFee": 1000
         }
     ]
 }
-
-Endereço para retirar pedidos
-
-Av. Presidente Dutra
-Ilha de Santa Luzia - Mossoró - RN
-
-
-Alto São Manoel	R$ 6,
-00
-Belo Horizonte	R$ 8,
-00
-Boa Vista	R$ 6,
-00
-Bom Jardim	R$ 8,
-00
-Centro	R$ 5,
-00
-Cidade Alta ,alto Sumare.	R$ 12,
-00
-Coab	R$ 6,
-00
-Colegio Diocesano	R$ 7,
-00
-Condomínio Bella Residence	R$ 10,
-00
-Condominio Central Park	R$ 7,
-00
-Condomínio Ecoville	R$ 10,
-00
-Condomínio Quintas do Lago Mossoró (entrega Ate 23hrs )	R$ 12,
-00
-Condomínio Residencial Espaço Vida	R$ 7,
-00
-Condomínio Veronique	R$ 12,
-00
-Condomínio Villa Lobos	R$ 8,
-00
-Costa Silva	R$ 8,
-00
-Dom Jaime Câmara	R$ 10,
-00
-Doze Anos	R$ 6,
-00
-Ecoresidencial Gênesis	R$ 6,
-00
-Hospital Hapvida	R$ 8,
-00
-Hospital Maternidade Almeida Castro	R$ 4,
-00
-Hospital R Tarcisio Maia	R$ 8,
-00
-Hospital Rafael Fernandes	R$ 5,
-00
-Hospital Wilson Rosado	R$ 5,
-00
-Hotel Garbos	R$ 10,
-00
-Hotel Termas	R$ 12,
-00
-Hotel Villaoeste	R$ 4,
-00
-Ilha de Santa Luzia	R$ 5,
-00
-Lagoa do Mato	R$ 7,
-00
-Liberdade	R$ 8,
-00
-Monte Olimpo	R$ 12,
-00
-Ninho	R$ 10,
-00
-Nova Betania	R$ 10,
-00
-Otavio Ferreira 1	R$ 10,
-00
-Otavio Ferreira 2	R$ 10,
-00
-Otavio Ferreira 3	R$ 10,
-00
-Paredões	R$ 6,
-00
-Partage Shopping Mossoró	R$ 12,
-00
-Pintos	R$ 8,
-00
-Planalto	R$ 7,
-00
-Pousada Izamar	R$ 6,
-00
-Pousada Martins	R$ 7,
-00
-Pousada Mossoró	R$ 5,
-00
-Pousada São João	R$ 5,
-00
-Residencial Alameda Planalto	R$ 10,
-00
-Residencial Alphaville	R$ 12,
-00
-Residencial Celina Guimarães	R$ 10,
-00
-Residencial Dolce Vita	R$ 8,
-00
-Residencial Esplanada Rio Branco	R$ 10,
-00
-Residencial Jardins do Alto	R$ 8,
-00
-Residencial Jardins do Termas	R$ 10,
-00
-Residencial Neo Ville	R$ 8,
-00
-Residencial Rubens Pinto	R$ 10,
-00
-Residencial Solar Das Palmeiras	R$ 8,
-00
-Residencial Terra da Liberdade	R$ 12,
-00
-Santo Antonio	R$ 10,
-00
-Sumaré	R$ 12,
-00
-Sun Ville	R$ 10,
-00
-Uern - Universidade do Estado do Rio Grande do Norte	R$ 8,
-00
-Vingt Rosado 1 Etapa	R$ 10,
-00
-Vingt Rosado 2	R$ 12,
-00
-
-
 
 home pedidos favoritos configuracoes
