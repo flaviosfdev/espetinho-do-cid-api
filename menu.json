@@ -209,7 +209,7 @@
         {
             "id": "bebi0001",
             "name": "Água SEM gás",
-            "description": "Sem gás",
+            "description": "500 ml",
             "imageUrl": null,
             "size": 500,
             "price": 200,
@@ -219,7 +219,7 @@
         {
             "id": "bebi0002",
             "name": "Água COM gás",
-            "description": "Com gás",
+            "description": "500ml",
             "imageUrl": null,
             "size": 500,
             "price": 300,
