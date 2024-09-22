@@ -189,7 +189,7 @@
         {
             "id": "peti0003",
             "name": "Filé com fritas",
-            "description": null,
+            "description": "Serve 2 pessoas",
             "imageUrl": null,
             "size": null,
             "price": 3000,
@@ -199,7 +199,7 @@
         {
             "id": "peti0004",
             "name": "Calabresa com fritas",
-            "description": null,
+            "description": "Serve 2 pessoas",
             "imageUrl": null,
             "size": null,
             "price": 2200,
