@@ -208,7 +208,7 @@
         },
         {
             "id": "bebi0001",
-            "name": "Água mineral",
+            "name": "Água SEM gás",
             "description": "Sem gás",
             "imageUrl": null,
             "size": 500,
@@ -218,7 +218,7 @@
         },
         {
             "id": "bebi0002",
-            "name": "Água mineral com gás",
+            "name": "Água COM gás",
             "description": "Com gás",
             "imageUrl": null,
             "size": 500,
