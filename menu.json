@@ -109,8 +109,8 @@
         {
             "id": "trad0007",
             "name": "Queijo coalho",
-            "description": "https://i.ibb.co/q7BW5Wq/espeto-trad-queijo-coalho.webp",
-            "imageUrl": null,
+            "description": null,
+            "imageUrl": "https://i.ibb.co/q7BW5Wq/espeto-trad-queijo-coalho.webp",
             "size": null,
             "price": 700,
             "category": 1,
@@ -209,7 +209,7 @@
         {
             "id": "bebi0001",
             "name": "Água SEM gás",
-            "description": "500 ml",
+            "description": "500ml",
             "imageUrl": null,
             "size": 500,
             "price": 200,
@@ -229,7 +229,7 @@
         {
             "id": "bebi0003",
             "name": "Redbull",
-            "description": null,
+            "description": "250ml",
             "imageUrl": null,
             "size": 250,
             "price": 1000,
@@ -239,7 +239,7 @@
         {
             "id": "bebi0004",
             "name": "Ice cabaré",
-            "description": null,
+            "description": "275ml",
             "imageUrl": null,
             "size": 275,
             "price": 1000,
@@ -249,7 +249,7 @@
         {
             "id": "bebi0005",
             "name": "Refrigerante Lata",
-            "description": null,
+            "description": "350ml",
             "imageUrl": null,
             "size": 350,
             "price": 400,
@@ -259,7 +259,7 @@
         {
             "id": "bebi0006",
             "name": "Refrigerante 1L",
-            "description": null,
+            "description": "1L",
             "imageUrl": null,
             "size": 1000,
             "price": 700,
@@ -269,7 +269,7 @@
         {
             "id": "bebi0007",
             "name": "Ypióca lata",
-            "description": null,
+            "description": "350ml",
             "imageUrl": null,
             "size": 350,
             "price": 1000,
@@ -489,7 +489,7 @@
         {
             "id": "bebi0029",
             "name": "Spaten",
-            "description": null,
+            "description": "600ml",
             "imageUrl": null,
             "size": null,
             "price": 600,
@@ -499,7 +499,7 @@
         {
             "id": "bebi0030",
             "name": "Stella Artois",
-            "description": null,
+            "description": "600ml",
             "imageUrl": null,
             "size": null,
             "price": 600,
@@ -509,7 +509,7 @@
         {
             "id": "bebi0031",
             "name": "Amstel",
-            "description": null,
+            "description": "600ml",
             "imageUrl": null,
             "size": 600,
             "price": 1000,
@@ -519,7 +519,7 @@
         {
             "id": "bebi0032",
             "name": "Brahma Chopp",
-            "description": null,
+            "description": "600ml",
             "imageUrl": null,
             "size": 600,
             "price": 900,
@@ -529,7 +529,7 @@
         {
             "id": "bebi0033",
             "name": "Devassa",
-            "description": null,
+            "description": "600ml",
             "imageUrl": null,
             "size": 600,
             "price": 900,
@@ -539,7 +539,7 @@
         {
             "id": "bebi0034",
             "name": "Heineken",
-            "description": null,
+            "description": "600ml",
             "imageUrl": null,
             "size": 600,
             "price": 1500,
@@ -549,7 +549,7 @@
         {
             "id": "bebi0035",
             "name": "Skol",
-            "description": null,
+            "description": "600ml",
             "imageUrl": null,
             "size": 600,
             "price": 900,
@@ -559,7 +559,7 @@
         {
             "id": "bebi0036",
             "name": "Spaten",
-            "description": null,
+            "description": "600ml",
             "imageUrl": null,
             "size": 600,
             "price": 1300,
@@ -569,7 +569,7 @@
         {
             "id": "bebi0037",
             "name": "Stella Artois",
-            "description": null,
+            "description": "600ml",
             "imageUrl": null,
             "size": 600,
             "price": 1300,
