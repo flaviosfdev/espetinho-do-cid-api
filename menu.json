@@ -309,8 +309,8 @@
         {
             "id": "bebi0011",
             "name": "Brahma Chopp",
-            "description": null,
-            "imageUrl": null,
+            "description": "300ml",
+            "imageUrl": "https://i.ibb.co/Vq6gD8B/litrinho-brahma-chopp.jpg",
             "size": 300,
             "price": 400,
             "category": 5,
