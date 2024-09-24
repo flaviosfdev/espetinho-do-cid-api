@@ -319,8 +319,8 @@
         {
             "id": "bebi0012",
             "name": "Devassa",
-            "description": null,
-            "imageUrl": null,
+            "description": "300ml",
+            "imageUrl": "https://i.ibb.co/Dk7LCZv/litrinho-devassa.jpg",
             "size": 300,
             "price": 400,
             "category": 5,
