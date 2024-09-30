@@ -230,7 +230,7 @@
             "id": "bebi0003",
             "name": "Redbull",
             "description": "250ml",
-            "imageUrl": null,
+            "imageUrl": "https://i.ibb.co/gWQXQpW/bebidas-redbull.webp",
             "size": 250,
             "price": 1000,
             "category": 4,
