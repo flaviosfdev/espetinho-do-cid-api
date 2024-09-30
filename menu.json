@@ -89,8 +89,8 @@
         {
             "id": "trad0005",
             "name": "Coração de boi",
-            "description": "https://i.ibb.co/mGxf1pm/espeto-trad-coracao-boi.webp",
-            "imageUrl": null,
+            "description": null,
+            "imageUrl":  "https://i.ibb.co/mGxf1pm/espeto-trad-coracao-boi.webp",
             "size": null,
             "price": 700,
             "category": 1,
@@ -119,8 +119,8 @@
         {
             "id": "spec0001",
             "name": "Carne com bacon",
-            "description": "https://i.ibb.co/kB2FtdW/espeto-esp-carne-com-bacon.webp",
-            "imageUrl": null,
+            "description": null,
+            "imageUrl": "https://i.ibb.co/kB2FtdW/espeto-esp-carne-com-bacon.webp",
             "size": null,
             "price": 800,
             "category": 2,
@@ -139,8 +139,8 @@
         {
             "id": "spec0003",
             "name": "Ovo com bacon",
-            "description": "https://i.ibb.co/QPWGD3C/espeto-esp-ovo-com-bacon.webp",
-            "imageUrl": null,
+            "description": null,
+            "imageUrl": "https://i.ibb.co/QPWGD3C/espeto-esp-ovo-com-bacon.webp",
             "size": null,
             "price": 800,
             "category": 2,
