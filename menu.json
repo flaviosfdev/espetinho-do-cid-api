@@ -471,7 +471,7 @@
             "id": 31,
             "name": "Budweiser",
             "description": null,
-            "imageUrl": null,
+            "imageUrl": "https://i.ibb.co/1qpNLgz/teste.webp",
             "size": 330,
             "price": {
                 "fullPrice": 800,
