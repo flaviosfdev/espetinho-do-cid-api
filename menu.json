@@ -275,7 +275,7 @@
             "id": 17,
             "name": "Água SEM gás",
             "description": "500ml",
-            "imageUrl": "https://i.ibb.co/vdL2BmF/bebidas-agua-sem-gas.webp",
+            "imageUrl": "https://i.ibb.co/DG1PY3J/agua-mineral-sem-gas.webp",
             "size": 500,
             "price": {
                 "fullPrice": 200,
@@ -289,7 +289,7 @@
             "id": 18,
             "name": "Água COM gás",
             "description": "500ml",
-            "imageUrl": "https://i.ibb.co/chSXQY4/bebidas-agua-com-gas.webp",
+            "imageUrl": "https://i.ibb.co/c8rMgcB/agua-mineral-com-gas.webp",
             "size": 500,
             "price": {
                 "fullPrice": 300,
