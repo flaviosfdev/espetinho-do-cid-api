@@ -55,8 +55,8 @@
             "size": null,
             "price": {
                 "fullPrice": 700,
-                "offerPrice": null,
-                "offerPercentage": null
+                "offerPrice": 630,
+                "offerPercentage": "10%"
             },
             "category": 1,
             "isAvailable": true
