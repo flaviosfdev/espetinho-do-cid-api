@@ -16,7 +16,7 @@
     "openingHours": [
         {
             "day": "Segunda-feira",
-            "time": "18:00 às 22:45"
+            "time": "18:00 às 22:30"
         },
         {
             "day": "Terça-feira",
@@ -28,19 +28,19 @@
         },
         {
             "day": "Quinta-feira",
-            "time": "18:00 às 22:45"
+            "time": "18:00 às 22:30"
         },
         {
             "day": "Sexta-feira",
-            "time": "18:00 às 22:45"
+            "time": "18:00 às 22:30"
         },
         {
             "day": "Sábado",
-            "time": "18:00 às 22:45"
+            "time": "18:00 às 22:30"
         },
         {
             "day": "Domingo",
-            "time": "18:00 às 22:45"
+            "time": "18:00 às 22:30"
         }
     ]
 }
