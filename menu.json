@@ -53,7 +53,11 @@
             "description": null,
             "imageUrl": "https://i.ibb.co/Jkg7BVJ/espeto-trad-carne.webp",
             "size": null,
-            "price": 700,
+            "price": {
+                "fullPrice": 700,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 1,
             "isAvailable": true
         },
@@ -63,7 +67,11 @@
             "description": null,
             "imageUrl": "https://i.ibb.co/NxZQWKG/espeto-trad-frango.webp",
             "size": null,
-            "price": 700,
+            "price": {
+                "fullPrice": 700,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 1,
             "isAvailable": true
         },
@@ -73,7 +81,11 @@
             "description": null,
             "imageUrl": "https://i.ibb.co/Jqb1MhH/espeto-trad-calabresa.webp",
             "size": null,
-            "price": 700,
+            "price": {
+                "fullPrice": 700,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 1,
             "isAvailable": true
         },
@@ -83,7 +95,11 @@
             "description": null,
             "imageUrl": "https://i.ibb.co/T27Hn4R/espeto-trad-coracao-frango.webp",
             "size": null,
-            "price": 700,
+            "price": {
+                "fullPrice": 700,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 1,
             "isAvailable": true
         },
@@ -93,7 +109,11 @@
             "description": null,
             "imageUrl":  "https://i.ibb.co/mGxf1pm/espeto-trad-coracao-boi.webp",
             "size": null,
-            "price": 700,
+            "price": {
+                "fullPrice": 700,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 1,
             "isAvailable": true
         },
@@ -103,7 +123,11 @@
             "description": null,
             "imageUrl": "https://i.ibb.co/jgCHHZ7/espeto-trad-suino.webp",
             "size": null,
-            "price": 700,
+            "price": {
+                "fullPrice": 700,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 1,
             "isAvailable": true
         },
@@ -113,7 +137,11 @@
             "description": null,
             "imageUrl": "https://i.ibb.co/q7BW5Wq/espeto-trad-queijo-coalho.webp",
             "size": null,
-            "price": 700,
+            "price": {
+                "fullPrice": 700,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 1,
             "isAvailable": true
         },
@@ -123,7 +151,11 @@
             "description": null,
             "imageUrl": "https://i.ibb.co/kB2FtdW/espeto-esp-carne-com-bacon.webp",
             "size": null,
-            "price": 800,
+            "price": {
+                "fullPrice": 800,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 2,
             "isAvailable": true
         },
@@ -133,7 +165,11 @@
             "description": null,
             "imageUrl": "https://i.ibb.co/MCL5cfH/espeto-esp-frango-com-bacon.webp",
             "size": null,
-            "price": 800,
+            "price": {
+                "fullPrice": 800,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 2,
             "isAvailable": true
         },
@@ -143,7 +179,11 @@
             "description": null,
             "imageUrl": "https://i.ibb.co/QPWGD3C/espeto-esp-ovo-com-bacon.webp",
             "size": null,
-            "price": 800,
+            "price": {
+                "fullPrice": 800,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 2,
             "isAvailable": true
         },
@@ -153,7 +193,11 @@
             "description": null,
             "imageUrl": "https://i.ibb.co/DwNNtkz/espeto-esp-kafta.webp",
             "size": null,
-            "price": 800,
+            "price": {
+                "fullPrice": 800,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 2,
             "isAvailable": true
         },
@@ -163,7 +207,11 @@
             "description": null,
             "imageUrl": "https://i.ibb.co/DwNNtkz/espeto-esp-kafta.webp",
             "size": null,
-            "price": 800,
+            "price": {
+                "fullPrice": 800,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 2,
             "isAvailable": true
         },
@@ -173,7 +221,11 @@
             "description": null,
             "imageUrl": "https://i.ibb.co/qxHdH95/petisco-batata-frita.webp",
             "size": null,
-            "price": 1000,
+            "price": {
+                "fullPrice": 1000,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 3,
             "isAvailable": true
         },
@@ -183,7 +235,11 @@
             "description": "Individual",
             "imageUrl": "https://i.ibb.co/sjd9WqB/petisco-cubinho-macaxeira.webp",
             "size": null,
-            "price": 1400,
+            "price": {
+                "fullPrice": 1400,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 3,
             "isAvailable": true
         },
@@ -193,7 +249,11 @@
             "description": "Serve 2 pessoas",
             "imageUrl": "https://i.ibb.co/vJbKzjG/petisco-file-com-fritas.webp",
             "size": null,
-            "price": 3000,
+            "price": {
+                "fullPrice": 3000,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 3,
             "isAvailable": true
         },
@@ -203,7 +263,11 @@
             "description": "Serve 2 pessoas",
             "imageUrl": "https://i.ibb.co/PrLrrBn/petisco-calabresa-com-fritas.webp",
             "size": null,
-            "price": 2200,
+            "price": {
+                "fullPrice": 2200,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 3,
             "isAvailable": true
         },
@@ -213,7 +277,11 @@
             "description": "500ml",
             "imageUrl": "https://i.ibb.co/vdL2BmF/bebidas-agua-sem-gas.webp",
             "size": 500,
-            "price": 200,
+            "price": {
+                "fullPrice": 200,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 4,
             "isAvailable": true
         },
@@ -223,7 +291,11 @@
             "description": "500ml",
             "imageUrl": "https://i.ibb.co/chSXQY4/bebidas-agua-com-gas.webp",
             "size": 500,
-            "price": 300,
+            "price": {
+                "fullPrice": 300,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 4,
             "isAvailable": true
         },
@@ -233,7 +305,11 @@
             "description": "250ml",
             "imageUrl": "https://i.ibb.co/gWQXQpW/bebidas-redbull.webp",
             "size": 250,
-            "price": 1000,
+            "price": {
+                "fullPrice": 1000,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 4,
             "isAvailable": true
         },
@@ -243,7 +319,11 @@
             "description": "275ml",
             "imageUrl": null,
             "size": 275,
-            "price": 1000,
+            "price": {
+                "fullPrice": 1000,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 4,
             "isAvailable": true
         },
@@ -253,7 +333,11 @@
             "description": "350ml",
             "imageUrl": null,
             "size": 350,
-            "price": 400,
+            "price": {
+                "fullPrice": 400,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 4,
             "isAvailable": true
         },
@@ -263,7 +347,11 @@
             "description": "1L",
             "imageUrl": null,
             "size": 1000,
-            "price": 700,
+            "price": {
+                "fullPrice": 700,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 4,
             "isAvailable": true
         },
@@ -273,7 +361,11 @@
             "description": "350ml",
             "imageUrl": null,
             "size": 350,
-            "price": 1000,
+            "price": {
+                "fullPrice": 1000,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 4,
             "isAvailable": true
         },
@@ -283,7 +375,11 @@
             "description": null,
             "imageUrl": null,
             "size": 350,
-            "price": 800,
+            "price": {
+                "fullPrice": 800,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 4,
             "isAvailable": true
         },
@@ -293,7 +389,11 @@
             "description": null,
             "imageUrl": null,
             "size": 350,
-            "price": 800,
+            "price": {
+                "fullPrice": 800,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 4,
             "isAvailable": true
         },
@@ -303,7 +403,11 @@
             "description": null,
             "imageUrl": null,
             "size": 350,
-            "price": 800,
+            "price": {
+                "fullPrice": 800,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 4,
             "isAvailable": true
         },
@@ -313,7 +417,11 @@
             "description": "300ml",
             "imageUrl": "https://i.ibb.co/YZ2WhcM/litrinho-brahma-chopp.jpg",
             "size": 300,
-            "price": 400,
+            "price": {
+                "fullPrice": 400,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 5,
             "isAvailable": true
         },
@@ -323,7 +431,11 @@
             "description": "300ml",
             "imageUrl": "https://i.ibb.co/Dk7LCZv/litrinho-devassa.jpg",
             "size": 300,
-            "price": 400,
+            "price": {
+                "fullPrice": 400,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 5,
             "isAvailable": true
         },
@@ -333,7 +445,11 @@
             "description": null,
             "imageUrl": null,
             "size": 300,
-            "price": 400,
+            "price": {
+                "fullPrice": 400,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 5,
             "isAvailable": true
         },
@@ -343,7 +459,11 @@
             "description": null,
             "imageUrl": null,
             "size": 300,
-            "price": 400,
+            "price": {
+                "fullPrice": 400,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 5,
             "isAvailable": true
         },
@@ -353,7 +473,11 @@
             "description": null,
             "imageUrl": null,
             "size": 330,
-            "price": 800,
+            "price": {
+                "fullPrice": 800,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 6,
             "isAvailable": true
         },
@@ -363,7 +487,11 @@
             "description": null,
             "imageUrl": null,
             "size": 330,
-            "price": 800,
+            "price": {
+                "fullPrice": 800,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 6,
             "isAvailable": true
         },
@@ -373,7 +501,11 @@
             "description": null,
             "imageUrl": null,
             "size": 330,
-            "price": 800,
+            "price": {
+                "fullPrice": 800,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 6,
             "isAvailable": true
         },
@@ -383,7 +515,11 @@
             "description": null,
             "imageUrl": null,
             "size": 355,
-            "price": 800,
+            "price": {
+                "fullPrice": 800,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 6,
             "isAvailable": true
         },
@@ -393,7 +529,11 @@
             "description": null,
             "imageUrl": null,
             "size": 330,
-            "price": 800,
+            "price": {
+                "fullPrice": 800,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 6,
             "isAvailable": true
         },
@@ -403,7 +543,11 @@
             "description": null,
             "imageUrl": null,
             "size": null,
-            "price": 400,
+            "price": {
+                "fullPrice": 400,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 7,
             "isAvailable": true
         },
@@ -413,7 +557,11 @@
             "description": null,
             "imageUrl": null,
             "size": null,
-            "price": 400,
+            "price": {
+                "fullPrice": 400,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 7,
             "isAvailable": true
         },
@@ -423,7 +571,11 @@
             "description": null,
             "imageUrl": null,
             "size": null,
-            "price": 400,
+            "price": {
+                "fullPrice": 400,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 7,
             "isAvailable": true
         },
@@ -433,7 +585,11 @@
             "description": null,
             "imageUrl": null,
             "size": null,
-            "price": 600,
+            "price": {
+                "fullPrice": 600,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 7,
             "isAvailable": true
         },
@@ -443,7 +599,11 @@
             "description": null,
             "imageUrl": null,
             "size": null,
-            "price": 600,
+            "price": {
+                "fullPrice": 600,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 7,
             "isAvailable": true
         },
@@ -453,7 +613,11 @@
             "description": null,
             "imageUrl": null,
             "size": null,
-            "price": 400,
+            "price": {
+                "fullPrice": 400,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 7,
             "isAvailable": true
         },
@@ -463,7 +627,11 @@
             "description": null,
             "imageUrl": null,
             "size": null,
-            "price": 600,
+            "price": {
+                "fullPrice": 600,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 7,
             "isAvailable": true
         },
@@ -473,7 +641,11 @@
             "description": null,
             "imageUrl": null,
             "size": null,
-            "price": 300,
+            "price": {
+                "fullPrice": 300,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 7,
             "isAvailable": true
         },
@@ -483,7 +655,11 @@
             "description": null,
             "imageUrl": null,
             "size": null,
-            "price": 300,
+            "price": {
+                "fullPrice": 300,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 7,
             "isAvailable": true
         },
@@ -493,7 +669,11 @@
             "description": "600ml",
             "imageUrl": null,
             "size": null,
-            "price": 600,
+            "price": {
+                "fullPrice": 600,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 7,
             "isAvailable": true
         },
@@ -503,7 +683,11 @@
             "description": "600ml",
             "imageUrl": null,
             "size": null,
-            "price": 600,
+            "price": {
+                "fullPrice": 600,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 7,
             "isAvailable": true
         },
@@ -513,7 +697,11 @@
             "description": "600ml",
             "imageUrl": null,
             "size": 600,
-            "price": 1000,
+            "price": {
+                "fullPrice": 1000,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 8,
             "isAvailable": true
         },
@@ -523,7 +711,11 @@
             "description": "600ml",
             "imageUrl": null,
             "size": 600,
-            "price": 900,
+            "price": {
+                "fullPrice": 900,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 8,
             "isAvailable": true
         },
@@ -533,7 +725,11 @@
             "description": "600ml",
             "imageUrl": null,
             "size": 600,
-            "price": 900,
+            "price": {
+                "fullPrice": 900,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 8,
             "isAvailable": true
         },
@@ -543,7 +739,11 @@
             "description": "600ml",
             "imageUrl": null,
             "size": 600,
-            "price": 1500,
+            "price": {
+                "fullPrice": 1500,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 8,
             "isAvailable": true
         },
@@ -553,7 +753,11 @@
             "description": "600ml",
             "imageUrl": null,
             "size": 600,
-            "price": 900,
+            "price": {
+                "fullPrice": 900,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 8,
             "isAvailable": true
         },
@@ -563,7 +767,11 @@
             "description": "600ml",
             "imageUrl": null,
             "size": 600,
-            "price": 1300,
+            "price": {
+                "fullPrice": 1300,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 8,
             "isAvailable": true
         },
@@ -573,7 +781,11 @@
             "description": "600ml",
             "imageUrl": null,
             "size": 600,
-            "price": 1300,
+            "price": {
+                "fullPrice": 1300,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
             "category": 8,
             "isAvailable": true
         }
