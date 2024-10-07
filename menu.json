@@ -320,7 +320,7 @@
                 "offerPrice": null,
                 "offerPercentage": null
             },
-            "category": 4,
+            "category": 13,
             "isAvailable": true
         },
         {
@@ -334,13 +334,13 @@
                 "offerPrice": null,
                 "offerPercentage": null
             },
-            "category": 4,
+            "category": 13,
             "isAvailable": true
         },
         {
             "id": 25,
-            "name": "Cachaça Carangueijo Ouro",
-            "description": null,
+            "name": "Carangueijo Ouro",
+            "description": "Cachaça",
             "imageUrl": null,
             "size": 350,
             "price": {
@@ -348,13 +348,13 @@
                 "offerPrice": null,
                 "offerPercentage": null
             },
-            "category": 4,
+            "category": 13,
             "isAvailable": true
         },
         {
             "id": 26,
-            "name": "Cachaça Carangueijo Prata",
-            "description": null,
+            "name": "Carangueijo Prata",
+            "description": "Cachaça",
             "imageUrl": null,
             "size": 350,
             "price": {
@@ -362,7 +362,7 @@
                 "offerPrice": null,
                 "offerPercentage": null
             },
-            "category": 4,
+            "category": 13,
             "isAvailable": true
         },
         {
