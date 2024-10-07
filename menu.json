@@ -634,8 +634,8 @@
         {
             "id": 46,
             "name": "Stella Artois Lata",
-            "description": "600ml",
-            "imageUrl": null,
+            "description": null,
+            "imageUrl": "https://i.ibb.co/SQPZ9tr/cerveja-lata-stella-artois.webp",
             "size": null,
             "price": {
                 "fullPrice": 600,
