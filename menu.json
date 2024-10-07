@@ -423,7 +423,7 @@
         },
         {
             "id": 31,
-            "name": "Budweiser Long",
+            "name": "Longneck Budweiser",
             "description": null,
             "imageUrl": "https://i.ibb.co/1L5hWx5/longneck-budweiser.webp",
             "size": 330,
@@ -437,7 +437,7 @@
         },
         {
             "id": 32,
-            "name": "Corona Long",
+            "name": "Longneck Corona",
             "description": null,
             "imageUrl": "https://i.ibb.co/vVKg0Zx/longneck-corona.webp",
             "size": 330,
@@ -451,7 +451,7 @@
         },
         {
             "id": 33,
-            "name": "Heineken Long",
+            "name": "Longneck Heineken",
             "description": null,
             "imageUrl": "https://i.ibb.co/5WwZrfB/longneck-heineken.webp",
             "size": 330,
@@ -465,7 +465,7 @@
         },
         {
             "id": 34,
-            "name": "Spaten Long",
+            "name": "Longneck Spaten",
             "description": null,
             "imageUrl": "https://i.ibb.co/x766Zrn/longneck-spaten.webp",
             "size": 355,
@@ -479,7 +479,7 @@
         },
         {
             "id": 35,
-            "name": "Stella Artois Long",
+            "name": "Longneck Stella Artois",
             "description": null,
             "imageUrl": "https://i.ibb.co/cvN5stT/longneck-stella-artois.webp",
             "size": 330,
