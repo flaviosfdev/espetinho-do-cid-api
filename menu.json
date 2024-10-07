@@ -4,62 +4,62 @@
         {
             "id": 1,
             "orderId": 1,
-            "name": "espetinho tradicional"
+            "name": "Espetinho Tradicional"
         },
         {
             "id": 2,
             "orderId": 2,
-            "name": "espetinho especial"
+            "name": "Espetinho Especial"
         },
         {
             "id": 3,
             "orderId": 3,
-            "name": "petisco"
+            "name": "Petiscos"
         },
         {
             "id": 4,
             "orderId": 4,
-            "name": "bebida"
+            "name": "Bebidas"
         },
         {
             "id": 5,
             "orderId": 6,
-            "name": "litrinho"
+            "name": "Litrinho"
         },
         {
             "id": 6,
             "orderId": 7,
-            "name": "longneck"
+            "name": "Longneck"
         },
         {
             "id": 7,
             "orderId": 8,
-            "name": "cerveja lata"
+            "name": "Cerveja Lata"
         },
         {
             "id": 8,
             "orderId": 9,
-            "name": "ceveja 600"
+            "name": "Ceveja 600"
         },
         {
             "id": 9,
             "orderId": 10,
-            "name": "combo"
+            "name": "Combo"
         },
         {
             "id": 10,
             "orderId": 11,
-            "name": "promocao"
+            "name": "Promoção"
         },
         {
             "id": 11,
             "orderId": 12,
-            "name": "mais pedido"
+            "name": "Mais pedidos"
         },
         {
             "id": 12,
             "orderId": 5,
-            "name": "refrigerante lata"
+            "name": "Refrigerante Lata"
         }
     ],
     "menu": [
