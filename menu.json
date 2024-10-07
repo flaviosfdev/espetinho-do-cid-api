@@ -423,7 +423,7 @@
         },
         {
             "id": 31,
-            "name": "Budweiser",
+            "name": "Budweiser Long",
             "description": null,
             "imageUrl": "https://i.ibb.co/1L5hWx5/longneck-budweiser.webp",
             "size": 330,
@@ -437,7 +437,7 @@
         },
         {
             "id": 32,
-            "name": "Corona",
+            "name": "Corona Long",
             "description": null,
             "imageUrl": "https://i.ibb.co/vVKg0Zx/longneck-corona.webp",
             "size": 330,
@@ -451,7 +451,7 @@
         },
         {
             "id": 33,
-            "name": "Heineken",
+            "name": "Heineken Long",
             "description": null,
             "imageUrl": "https://i.ibb.co/5WwZrfB/longneck-heineken.webp",
             "size": 330,
@@ -465,7 +465,7 @@
         },
         {
             "id": 34,
-            "name": "Spaten",
+            "name": "Spaten Long",
             "description": null,
             "imageUrl": "https://i.ibb.co/x766Zrn/longneck-spaten.webp",
             "size": 355,
@@ -479,7 +479,7 @@
         },
         {
             "id": 35,
-            "name": "Stella Artois",
+            "name": "Stella Artois Long",
             "description": null,
             "imageUrl": "https://i.ibb.co/cvN5stT/longneck-stella-artois.webp",
             "size": 330,
@@ -507,7 +507,7 @@
         },
         {
             "id": 37,
-            "name": "Brahma Chopp",
+            "name": "Brahma Chopp Lata",
             "description": null,
             "imageUrl": "https://i.ibb.co/cJBhwDK/cerveja-lata-brahma-chopp.webp",
             "size": null,
@@ -521,7 +521,7 @@
         },
         {
             "id": 38,
-            "name": "Brahma Duplo Malte",
+            "name": "Brahma Duplo Malte Lata",
             "description": null,
             "imageUrl": "https://i.ibb.co/7rdg5GV/cerveja-lata-brahma-duplo-malte.webp",
             "size": null,
@@ -535,7 +535,7 @@
         },
         {
             "id": 39,
-            "name": "Budweiser",
+            "name": "Budweiser Lata",
             "description": null,
             "imageUrl": "https://i.ibb.co/db6zpxf/cerveja-lata-budweiser.webp",
             "size": null,
@@ -549,7 +549,7 @@
         },
         {
             "id": 40,
-            "name": "Corona",
+            "name": "Corona Lata",
             "description": null,
             "imageUrl": "https://i.ibb.co/r3wJ0Ht/cerveja-lata-corona.webp",
             "size": null,
@@ -563,7 +563,7 @@
         },
         {
             "id": 41,
-            "name": "Devassa",
+            "name": "Devassa Lata",
             "description": null,
             "imageUrl": "https://i.ibb.co/1qm8tQs/cerveja-lata-devassa.webp",
             "size": null,
@@ -577,7 +577,7 @@
         },
         {
             "id": 42,
-            "name": "Heineken",
+            "name": "Heineken Lata",
             "description": null,
             "imageUrl": "https://i.ibb.co/q0D5W6C/cerveja-lata-heineken.webp",
             "size": null,
