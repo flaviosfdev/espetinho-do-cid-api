@@ -3,47 +3,63 @@
     "categories": [
         {
             "id": 1,
+            "orderId": 1,
             "name": "espetinho tradicional"
         },
         {
             "id": 2,
+            "orderId": 2,
             "name": "espetinho especial"
         },
         {
             "id": 3,
+            "orderId": 3,
             "name": "petisco"
         },
         {
             "id": 4,
+            "orderId": 4,
             "name": "bebida"
         },
         {
             "id": 5,
+            "orderId": 6,
             "name": "litrinho"
         },
         {
             "id": 6,
+            "orderId": 7,
             "name": "longneck"
         },
         {
             "id": 7,
+            "orderId": 8,
             "name": "cerveja lata"
         },
         {
             "id": 8,
+            "orderId": 9,
             "name": "ceveja 600"
         },
         {
             "id": 9,
+            "orderId": 10,
             "name": "combo"
         },
         {
             "id": 10,
+            "orderId": 11,
             "name": "promocao"
         },
         {
             "id": 11,
+            "orderId": 12,
             "name": "mais pedido"
+        },
+        {
+            "id": 12,
+            "orderId": 5,
+            "name": "refrigerante lata"
         }
     ],
     "menu": [
@@ -275,7 +291,7 @@
             "id": 17,
             "name": "Água SEM gás",
             "description": "500ml",
-            "imageUrl": "https://i.ibb.co/DG1PY3J/agua-mineral-sem-gas.webp",
+            "imageUrl": "https://i.ibb.co/rmtHDnT/agua-mineral-sem-gas.webp",
             "size": 500,
             "price": {
                 "fullPrice": 200,
@@ -289,7 +305,7 @@
             "id": 18,
             "name": "Água COM gás",
             "description": "500ml",
-            "imageUrl": "https://i.ibb.co/c8rMgcB/agua-mineral-com-gas.webp",
+            "imageUrl": "https://i.ibb.co/hHHGLs1/agua-mineral-com-gas.webp",
             "size": 500,
             "price": {
                 "fullPrice": 300,
@@ -303,7 +319,7 @@
             "id": 19,
             "name": "Redbull lata",
             "description": "250ml",
-            "imageUrl": "https://i.ibb.co/MPGJYn8/redbull-lata.webp",
+            "imageUrl": "https://i.ibb.co/xMSqZVJ/redbull-lata.webp",
             "size": 250,
             "price": {
                 "fullPrice": 1000,
@@ -787,6 +803,90 @@
                 "offerPercentage": null
             },
             "category": 8,
+            "isAvailable": true
+        },
+        {
+            "id": 54,
+            "name": "Coca-cola",
+            "description": "350ml",
+            "imageUrl": "https://i.ibb.co/dQcpPtY/refrigerante-lata-coca-cola.webp",
+            "size": 350,
+            "price": {
+                "fullPrice": 600,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
+            "category": 12,
+            "isAvailable": true
+        },
+        {
+            "id": 55,
+            "name": "Coca-Cola Zero",
+            "description": "350ml",
+            "imageUrl": "https://i.ibb.co/d0cgwgW/refrigerante-lata-coca-cola-zero.webp",
+            "size": 350,
+            "price": {
+                "fullPrice": 600,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
+            "category": 12,
+            "isAvailable": true
+        },
+        {
+            "id": 56,
+            "name": "Guaraná Antarctica",
+            "description": "350ml",
+            "imageUrl": "https://i.ibb.co/pvNhFWZ/refrigerante-lata-guarana.webp",
+            "size": 350,
+            "price": {
+                "fullPrice": 600,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
+            "category": 12,
+            "isAvailable": true
+        },
+        {
+            "id": 57,
+            "name": "Pepsi",
+            "description": "350ml",
+            "imageUrl": "https://i.ibb.co/VQT4gzn/refrigerante-lata-pepsi.webp",
+            "size": 350,
+            "price": {
+                "fullPrice": 600,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
+            "category": 12,
+            "isAvailable": true
+        },
+        {
+            "id": 58,
+            "name": "Sprite",
+            "description": "350ml",
+            "imageUrl": "https://i.ibb.co/7kxWFPG/refrigerante-lata-sprite.webp",
+            "size": 350,
+            "price": {
+                "fullPrice": 600,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
+            "category": 12,
+            "isAvailable": true
+        },
+        {
+            "id": 59,
+            "name": "Sukita Laranja",
+            "description": "350ml",
+            "imageUrl": "https://i.ibb.co/yY9S9PQ/refrigerante-lata-sukita-laranja.webp",
+            "size": 350,
+            "price": {
+                "fullPrice": 600,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
+            "category": 12,
             "isAvailable": true
         }
     ]
