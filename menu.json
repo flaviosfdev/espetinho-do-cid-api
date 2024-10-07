@@ -629,7 +629,7 @@
         },
         {
             "id": 45,
-            "name": "Spaten",
+            "name": "Spaten 600ml",
             "description": "600ml",
             "imageUrl": null,
             "size": null,
@@ -643,7 +643,7 @@
         },
         {
             "id": 46,
-            "name": "Stella Artois",
+            "name": "Stella Artois 600ml",
             "description": "600ml",
             "imageUrl": null,
             "size": null,
@@ -657,7 +657,7 @@
         },
         {
             "id": 47,
-            "name": "Amstel",
+            "name": "Amstel 600ml",
             "description": "600ml",
             "imageUrl": "https://i.ibb.co/FxCWLDk/cerveja-600-amstel.webp",
             "size": 600,
@@ -671,7 +671,7 @@
         },
         {
             "id": 48,
-            "name": "Brahma Chopp",
+            "name": "Brahma Chopp 600ml",
             "description": "600ml",
             "imageUrl": "https://i.ibb.co/51KHTV1/cerveja-600-brahma-chopp.webp",
             "size": 600,
@@ -685,7 +685,7 @@
         },
         {
             "id": 49,
-            "name": "Devassa",
+            "name": "Devassa 600ml",
             "description": "600ml",
             "imageUrl": "https://i.ibb.co/j33XsSD/cerveja-600-devassa.webp",
             "size": 600,
@@ -699,7 +699,7 @@
         },
         {
             "id": 50,
-            "name": "Heineken",
+            "name": "Heineken 600ml",
             "description": "600ml",
             "imageUrl": "https://i.ibb.co/7vQvf2Z/cerveja-600-heineken.webp",
             "size": 600,
@@ -713,7 +713,7 @@
         },
         {
             "id": 51,
-            "name": "Skol",
+            "name": "Skol 600ml",
             "description": "600ml",
             "imageUrl": "https://i.ibb.co/PW922XT/cerveja-600-skol.webp",
             "size": 600,
@@ -727,7 +727,7 @@
         },
         {
             "id": 52,
-            "name": "Spaten",
+            "name": "Spaten 600ml",
             "description": "600ml",
             "imageUrl": "https://i.ibb.co/Jv9zbj7/cerveja-600-spaten.webp",
             "size": 600,
@@ -741,7 +741,7 @@
         },
         {
             "id": 53,
-            "name": "Stella Artois",
+            "name": "Stella Artois 600ml",
             "description": "600ml",
             "imageUrl": "https://i.ibb.co/xs4bzqT/cerveja-600-stella-artois.webp",
             "size": 600,
