@@ -325,8 +325,8 @@
         },
         {
             "id": 24,
-            "name": "Cachaça 51",
-            "description": null,
+            "name": "Cachaça 51 Lata",
+            "description": "350ml",
             "imageUrl": "https://i.ibb.co/gdYzJmh/cachaca-lata-51.webp",
             "size": 350,
             "price": {
@@ -339,7 +339,7 @@
         },
         {
             "id": 25,
-            "name": "Carangueijo Ouro",
+            "name": "Carangueijo Ouro Lata",
             "description": "Cachaça",
             "imageUrl": "https://i.ibb.co/VHCpy1y/cachaca-lata-carangueijo-ouro.webp",
             "size": 350,
@@ -353,7 +353,7 @@
         },
         {
             "id": 26,
-            "name": "Carangueijo Prata",
+            "name": "Carangueijo Prata Lata",
             "description": "Cachaça",
             "imageUrl": "https://i.ibb.co/vZ6G1FL/cachaca-lata-carangueijo-prata.webp",
             "size": 350,
