@@ -1,5 +1,5 @@
 {
-    "lastMenuItemId": 53,
+    "lastMenuItemId": 59,
     "menu": [
         {
             "id": 1,
@@ -271,7 +271,7 @@
             "id": 20,
             "name": "Ice cabaré",
             "description": "275ml",
-            "imageUrl": null,
+            "imageUrl": "https://i.ibb.co/t8sRtFW/longneck-ice-cabare.webp",
             "size": 275,
             "price": {
                 "fullPrice": 1000,
