@@ -301,9 +301,9 @@
         },
         {
             "id": 19,
-            "name": "Redbull",
+            "name": "Redbull lata",
             "description": "250ml",
-            "imageUrl": "https://i.ibb.co/gWQXQpW/bebidas-redbull.webp",
+            "imageUrl": "https://i.ibb.co/MPGJYn8/redbull-lata.webp",
             "size": 250,
             "price": {
                 "fullPrice": 1000,
