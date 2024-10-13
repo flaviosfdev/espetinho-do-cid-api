@@ -366,62 +366,6 @@
             "isAvailable": true
         },
         {
-            "id": 27,
-            "name": "Brahma Chopp",
-            "description": "300ml",
-            "imageUrl": "https://i.ibb.co/YZ2WhcM/litrinho-brahma-chopp.jpg",
-            "size": 300,
-            "price": {
-                "fullPrice": 400,
-                "offerPrice": null,
-                "offerPercentage": null
-            },
-            "category": 5,
-            "isAvailable": true
-        },
-        {
-            "id": 28,
-            "name": "Devassa",
-            "description": "300ml",
-            "imageUrl": "https://i.ibb.co/Dk7LCZv/litrinho-devassa.jpg",
-            "size": 300,
-            "price": {
-                "fullPrice": 400,
-                "offerPrice": null,
-                "offerPercentage": null
-            },
-            "category": 5,
-            "isAvailable": true
-        },
-        {
-            "id": 29,
-            "name": "Itaipava",
-            "description": null,
-            "imageUrl": null,
-            "size": 300,
-            "price": {
-                "fullPrice": 400,
-                "offerPrice": null,
-                "offerPercentage": null
-            },
-            "category": 5,
-            "isAvailable": true
-        },
-        {
-            "id": 30,
-            "name": "Skol",
-            "description": null,
-            "imageUrl": null,
-            "size": 300,
-            "price": {
-                "fullPrice": 400,
-                "offerPrice": null,
-                "offerPercentage": null
-            },
-            "category": 5,
-            "isAvailable": true
-        },
-        {
             "id": 31,
             "name": "Longneck Budweiser",
             "description": null,
