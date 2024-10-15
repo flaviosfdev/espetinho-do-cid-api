@@ -1,0 +1,48 @@
+{
+    "data":[
+        {
+            "neightborn": "Santo Antônio",
+            "fee": 500
+        },
+        {
+            "neightborn": "Barrocas",
+            "fee": 500
+        },
+        {
+            "neightborn": "Bom Jardim",
+            "fee": 500
+        },
+        {
+            "neightborn": "Nova Betânia",
+            "fee": 700
+        },
+        {
+            "neightborn": "Abolição I",
+            "fee": 600
+        },
+        {
+            "neightborn": "Abolição II",
+            "fee": 600
+        },
+        {
+            "neightborn": "Abolição III",
+            "fee": 800
+        },
+        {
+            "neightborn": "Abolição IV",
+            "fee": 800
+        },
+        {
+            "neightborn": "Abolição V",
+            "fee": 800
+        },
+        {
+            "neightborn": "Centro",
+            "fee": 700
+        },
+        {
+            "neightborn": "Paredões",
+            "fee": 600
+        }
+    ]
+}
