@@ -770,6 +770,34 @@
             },
             "category": 12,
             "isAvailable": true
+        },
+        {
+            "id": 60,
+            "name": "Suco de Laranja",
+            "description": "Copo",
+            "imageUrl": "https://i.ibb.co/yY9S9PQ/refrigerante-lata-sukita-laranja.webp",
+            "size": null,
+            "price": {
+                "fullPrice": 800,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
+            "category": 5,
+            "isAvailable": true
+        },
+        {
+            "id": 61,
+            "name": "Suco de Laranja",
+            "description": "Jarra 1L",
+            "imageUrl": "https://i.ibb.co/yY9S9PQ/refrigerante-lata-sukita-laranja.webp",
+            "size": null,
+            "price": {
+                "fullPrice": 1200,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
+            "category": 5,
+            "isAvailable": true
         }
     ]
 }

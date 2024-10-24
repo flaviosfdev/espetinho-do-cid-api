@@ -21,6 +21,11 @@
             "name": "Bebidas"
         },
         {
+            "id": 5,
+            "presentationOrder": 5,
+            "name": "Suco"
+        },
+        {
             "id": 6,
             "presentationOrder": 7,
             "name": "Longneck"
@@ -52,7 +57,7 @@
         },
         {
             "id": 12,
-            "presentationOrder": 5,
+            "presentationOrder": 6,
             "name": "Refrigerante Lata"
         },
         {
