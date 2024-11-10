@@ -1,5 +1,118 @@
 {
     "lastMenuItemId": 61,
+    "infos": {
+        "isOpen": false,
+    "contact": {
+        "whatsapp": "+5584981816129",
+        "instagram": "espetinhodocid"
+    },
+    "address": {
+        "cep": "59621-210",
+        "street": "Rua Artur Bernardes",
+        "number": "1274",
+        "neighborhood": "Barrocas",
+        "city": "Mossoró",
+        "uf": "RN",
+        "state": "Rio Grande do Norte"
+    },
+    "workingHours": [
+        {
+            "day": "Segunda-feira",
+            "time": "18:00 às 22:30"
+        },
+        {
+            "day": "Terça-feira",
+            "time": "Fechado"
+        },
+        {
+            "day": "Quarta-feira",
+            "time": "Fechado"
+        },
+        {
+            "day": "Quinta-feira",
+            "time": "18:00 às 22:30"
+        },
+        {
+            "day": "Sexta-feira",
+            "time": "18:00 às 22:30"
+        },
+        {
+            "day": "Sábado",
+            "time": "18:00 às 22:30"
+        },
+        {
+            "day": "Domingo",
+            "time": "18:00 às 22:30"
+        }
+    ]
+    },
+    "categories": [
+        {
+            "id": 1,
+            "presentationOrder": 1,
+            "name": "Espetinho Tradicional"
+        },
+        {
+            "id": 2,
+            "presentationOrder": 2,
+            "name": "Espetinho Especial"
+        },
+        {
+            "id": 3,
+            "presentationOrder": 3,
+            "name": "Petiscos"
+        },
+        {
+            "id": 4,
+            "presentationOrder": 4,
+            "name": "Bebidas"
+        },
+        {
+            "id": 5,
+            "presentationOrder": 5,
+            "name": "Suco"
+        },
+        {
+            "id": 6,
+            "presentationOrder": 7,
+            "name": "Longneck"
+        },
+        {
+            "id": 7,
+            "presentationOrder": 8,
+            "name": "Cerveja Lata"
+        },
+        {
+            "id": 8,
+            "presentationOrder": 9,
+            "name": "Ceveja 600ml"
+        },
+        {
+            "id": 9,
+            "presentationOrder": 10,
+            "name": "Combo"
+        },
+        {
+            "id": 10,
+            "presentationOrder": 11,
+            "name": "Promoção"
+        },
+        {
+            "id": 11,
+            "presentationOrder": 12,
+            "name": "Mais pedidos"
+        },
+        {
+            "id": 12,
+            "presentationOrder": 6,
+            "name": "Refrigerante Lata"
+        },
+        {
+            "id": 13,
+            "presentationOrder": 13,
+            "name": "Bebida Quente"
+        }
+    ],
     "menu": [
         {
             "id": 1,
