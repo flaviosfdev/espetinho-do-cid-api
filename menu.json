@@ -118,7 +118,7 @@
             "id": 1,
             "name": "Carne",
             "description": "",
-            "detail": "Delicioso espetinho de carne suculenta, temperado com uma combinação especial de ervas e especiarias, grelhado na brasa até alcançar o ponto perfeito. Cada pedaço é macio, saboroso e preparado com ingredientes frescos de alta qualidade. Ideal para um lanche rápido ou para acompanhar uma refeição completa. Experimente o sabor irresistível que só um espetinho bem-feito pode oferecer!",
+            "detail": "Delicioso espetinho de carne suculenta, temperado \ncom uma combinação especial de ervas e especiarias, grelhado na brasa até alcançar o ponto perfeito. Cada pedaço é macio, saboroso e preparado com ingredientes frescos de alta qualidade. Ideal para um lanche rápido ou para acompanhar uma refeição completa. Experimente o sabor irresistível que só um espetinho bem-feito pode oferecer!",
             "imageUrl": "https://i.ibb.co/Jkg7BVJ/espeto-trad-carne.webp",
             "size": null,
             "price": {
