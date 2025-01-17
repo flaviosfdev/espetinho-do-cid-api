@@ -117,7 +117,8 @@
         {
             "id": 1,
             "name": "Carne",
-            "description": "Acompanha guarnições de farofa e vinagrete.",
+            "description": "",
+            "detail": "Acompanha guarnições de farofa e vinagrete.",
             "imageUrl": "https://i.ibb.co/Jkg7BVJ/espeto-trad-carne.webp",
             "size": null,
             "price": {
@@ -132,6 +133,7 @@
             "id": 2,
             "name": "Frango",
             "description": null,
+            "detail": null,
             "imageUrl": "https://i.ibb.co/NxZQWKG/espeto-trad-frango.webp",
             "size": null,
             "price": {
@@ -146,6 +148,7 @@
             "id": 3,
             "name": "Calabresa",
             "description": null,
+            "detail": null,
             "imageUrl": "https://i.ibb.co/Jqb1MhH/espeto-trad-calabresa.webp",
             "size": null,
             "price": {
@@ -160,6 +163,7 @@
             "id": 4,
             "name": "Coração de frango",
             "description": null,
+            "detail": null,
             "imageUrl": "https://i.ibb.co/T27Hn4R/espeto-trad-coracao-frango.webp",
             "size": null,
             "price": {
@@ -174,6 +178,7 @@
             "id": 5,
             "name": "Coração de boi",
             "description": null,
+            "detail": null,
             "imageUrl": "https://i.ibb.co/mGxf1pm/espeto-trad-coracao-boi.webp",
             "size": null,
             "price": {
@@ -188,6 +193,7 @@
             "id": 6,
             "name": "Suino",
             "description": null,
+            "detail": null,
             "imageUrl": "https://i.ibb.co/jgCHHZ7/espeto-trad-suino.webp",
             "size": null,
             "price": {
@@ -202,6 +208,7 @@
             "id": 7,
             "name": "Queijo coalho",
             "description": null,
+            "detail": null,
             "imageUrl": "https://i.ibb.co/q7BW5Wq/espeto-trad-queijo-coalho.webp",
             "size": null,
             "price": {
@@ -216,6 +223,7 @@
             "id": 8,
             "name": "Carne com bacon",
             "description": null,
+            "detail": null,
             "imageUrl": "https://i.ibb.co/kB2FtdW/espeto-esp-carne-com-bacon.webp",
             "size": null,
             "price": {
@@ -230,6 +238,7 @@
             "id": 9,
             "name": "Frago com bacon",
             "description": null,
+            "detail": null,
             "imageUrl": "https://i.ibb.co/MCL5cfH/espeto-esp-frango-com-bacon.webp",
             "size": null,
             "price": {
@@ -244,6 +253,7 @@
             "id": 10,
             "name": "Ovo com bacon",
             "description": null,
+            "detail": null,
             "imageUrl": "https://i.ibb.co/QPWGD3C/espeto-esp-ovo-com-bacon.webp",
             "size": null,
             "price": {
@@ -258,6 +268,7 @@
             "id": 11,
             "name": "Kafta de boi",
             "description": null,
+            "detail": null,
             "imageUrl": "https://i.ibb.co/DwNNtkz/espeto-esp-kafta.webp",
             "size": null,
             "price": {
@@ -272,6 +283,7 @@
             "id": 12,
             "name": "Kafta de carneiro",
             "description": null,
+            "detail": null,
             "imageUrl": "https://i.ibb.co/DwNNtkz/espeto-esp-kafta.webp",
             "size": null,
             "price": {
@@ -286,6 +298,7 @@
             "id": 13,
             "name": "Batata frita",
             "description": null,
+            "detail": null,
             "imageUrl": "https://i.ibb.co/qxHdH95/petisco-batata-frita.webp",
             "size": null,
             "price": {
@@ -300,6 +313,7 @@
             "id": 14,
             "name": "Cubinho de macaxeira",
             "description": "Individual",
+            "detail": null,
             "imageUrl": "https://i.ibb.co/sjd9WqB/petisco-cubinho-macaxeira.webp",
             "size": null,
             "price": {
@@ -314,6 +328,7 @@
             "id": 15,
             "name": "Filé com fritas",
             "description": "Serve 2 pessoas",
+            "detail": null,
             "imageUrl": "https://i.ibb.co/vJbKzjG/petisco-file-com-fritas.webp",
             "size": null,
             "price": {
@@ -328,6 +343,7 @@
             "id": 16,
             "name": "Calabresa com fritas",
             "description": "Serve 2 pessoas",
+            "detail": null,
             "imageUrl": "https://i.ibb.co/PrLrrBn/petisco-calabresa-com-fritas.webp",
             "size": null,
             "price": {
@@ -342,6 +358,7 @@
             "id": 17,
             "name": "Água SEM gás",
             "description": "500ml",
+            "detail": null,
             "imageUrl": "https://i.ibb.co/rmtHDnT/agua-mineral-sem-gas.webp",
             "size": 500,
             "price": {
@@ -356,6 +373,7 @@
             "id": 18,
             "name": "Água COM gás",
             "description": "500ml",
+            "detail": null,
             "imageUrl": "https://i.ibb.co/hHHGLs1/agua-mineral-com-gas.webp",
             "size": 500,
             "price": {
@@ -370,6 +388,7 @@
             "id": 19,
             "name": "Redbull lata",
             "description": "250ml",
+            "detail": null,
             "imageUrl": "https://i.ibb.co/xMSqZVJ/redbull-lata.webp",
             "size": 250,
             "price": {
@@ -384,6 +403,7 @@
             "id": 20,
             "name": "Longneck Ice cabaré",
             "description": "275ml",
+            "detail": null,
             "imageUrl": "https://i.ibb.co/t8sRtFW/longneck-ice-cabare.webp",
             "size": 275,
             "price": {
@@ -398,6 +418,7 @@
             "id": 21,
             "name": "Refrigerante Lata",
             "description": "350ml",
+            "detail": null,
             "imageUrl": null,
             "size": 350,
             "price": {
@@ -412,6 +433,7 @@
             "id": 22,
             "name": "Refrigerante 1L",
             "description": "1L",
+            "detail": null,
             "imageUrl": null,
             "size": 1000,
             "price": {
@@ -426,6 +448,7 @@
             "id": 23,
             "name": "Ypióca lata",
             "description": "350ml",
+            "detail": null,
             "imageUrl": "https://i.ibb.co/k6w8Kz5/cachaca-lata-ypioca.webp",
             "size": 350,
             "price": {
@@ -440,6 +463,7 @@
             "id": 24,
             "name": "Cachaça 51 Lata",
             "description": "350ml",
+            "detail": null,
             "imageUrl": "https://i.ibb.co/gdYzJmh/cachaca-lata-51.webp",
             "size": 350,
             "price": {
@@ -454,6 +478,7 @@
             "id": 25,
             "name": "Carangueijo Ouro Lata",
             "description": "Cachaça",
+            "detail": null,
             "imageUrl": "https://i.ibb.co/VHCpy1y/cachaca-lata-carangueijo-ouro.webp",
             "size": 350,
             "price": {
@@ -468,6 +493,7 @@
             "id": 26,
             "name": "Carangueijo Prata Lata",
             "description": "Cachaça",
+            "detail": null,
             "imageUrl": "https://i.ibb.co/vZ6G1FL/cachaca-lata-carangueijo-prata.webp",
             "size": 350,
             "price": {
@@ -482,6 +508,7 @@
             "id": 31,
             "name": "Longneck Budweiser",
             "description": null,
+            "detail": null,
             "imageUrl": "https://i.ibb.co/1L5hWx5/longneck-budweiser.webp",
             "size": 330,
             "price": {
@@ -496,6 +523,7 @@
             "id": 32,
             "name": "Longneck Corona",
             "description": null,
+            "detail": null,
             "imageUrl": "https://i.ibb.co/vVKg0Zx/longneck-corona.webp",
             "size": 330,
             "price": {
@@ -510,6 +538,7 @@
             "id": 33,
             "name": "Longneck Heineken",
             "description": null,
+            "detail": null,
             "imageUrl": "https://i.ibb.co/5WwZrfB/longneck-heineken.webp",
             "size": 330,
             "price": {
@@ -524,6 +553,7 @@
             "id": 34,
             "name": "Longneck Spaten",
             "description": null,
+            "detail": null,
             "imageUrl": "https://i.ibb.co/x766Zrn/longneck-spaten.webp",
             "size": 355,
             "price": {
@@ -538,6 +568,7 @@
             "id": 35,
             "name": "Longneck Stella Artois",
             "description": null,
+            "detail": null,
             "imageUrl": "https://i.ibb.co/cvN5stT/longneck-stella-artois.webp",
             "size": 330,
             "price": {
@@ -552,6 +583,7 @@
             "id": 36,
             "name": "Amstel Lata",
             "description": null,
+            "detail": null,
             "imageUrl": "https://i.ibb.co/b198Zry/cerveja-lata-amstel.webp",
             "size": null,
             "price": {
@@ -566,6 +598,7 @@
             "id": 37,
             "name": "Brahma Chopp Lata",
             "description": null,
+            "detail": null,
             "imageUrl": "https://i.ibb.co/cJBhwDK/cerveja-lata-brahma-chopp.webp",
             "size": null,
             "price": {
@@ -580,6 +613,7 @@
             "id": 38,
             "name": "Brahma Duplo Malte Lata",
             "description": null,
+            "detail": null,
             "imageUrl": "https://i.ibb.co/7rdg5GV/cerveja-lata-brahma-duplo-malte.webp",
             "size": null,
             "price": {
@@ -594,6 +628,7 @@
             "id": 39,
             "name": "Budweiser Lata",
             "description": null,
+            "detail": null,
             "imageUrl": "https://i.ibb.co/db6zpxf/cerveja-lata-budweiser.webp",
             "size": null,
             "price": {
@@ -608,6 +643,7 @@
             "id": 40,
             "name": "Corona Lata",
             "description": null,
+            "detail": null,
             "imageUrl": "https://i.ibb.co/r3wJ0Ht/cerveja-lata-corona.webp",
             "size": null,
             "price": {
@@ -622,6 +658,7 @@
             "id": 41,
             "name": "Devassa Lata",
             "description": null,
+            "detail": null,
             "imageUrl": "https://i.ibb.co/1qm8tQs/cerveja-lata-devassa.webp",
             "size": null,
             "price": {
@@ -636,6 +673,7 @@
             "id": 42,
             "name": "Heineken Lata",
             "description": null,
+            "detail": null,
             "imageUrl": "https://i.ibb.co/q0D5W6C/cerveja-lata-heineken.webp",
             "size": null,
             "price": {
@@ -650,6 +688,7 @@
             "id": 43,
             "name": "Itaipava Lata",
             "description": null,
+            "detail": null,
             "imageUrl": "https://i.ibb.co/BBN90vT/cerveja-lata-itaipava.webp",
             "size": null,
             "price": {
@@ -664,6 +703,7 @@
             "id": 44,
             "name": "Skol Lata",
             "description": null,
+            "detail": null,
             "imageUrl": "https://i.ibb.co/C9Hh7cM/cerveja-lata-skol.webp",
             "size": null,
             "price": {
@@ -678,6 +718,7 @@
             "id": 45,
             "name": "Spaten Lata",
             "description": null,
+            "detail": null,
             "imageUrl": "https://i.ibb.co/M8Dj7pX/cerveja-lata-spaten.webp",
             "size": null,
             "price": {
@@ -692,6 +733,7 @@
             "id": 46,
             "name": "Stella Artois Lata",
             "description": null,
+            "detail": null,
             "imageUrl": "https://i.ibb.co/SQPZ9tr/cerveja-lata-stella-artois.webp",
             "size": null,
             "price": {
@@ -706,6 +748,7 @@
             "id": 47,
             "name": "Amstel 600ml",
             "description": "600ml",
+            "detail": null,
             "imageUrl": "https://i.ibb.co/FxCWLDk/cerveja-600-amstel.webp",
             "size": 600,
             "price": {
@@ -720,6 +763,7 @@
             "id": 48,
             "name": "Brahma Chopp 600ml",
             "description": "600ml",
+            "detail": null,
             "imageUrl": "https://i.ibb.co/51KHTV1/cerveja-600-brahma-chopp.webp",
             "size": 600,
             "price": {
@@ -734,6 +778,7 @@
             "id": 49,
             "name": "Devassa 600ml",
             "description": "600ml",
+            "detail": null,
             "imageUrl": "https://i.ibb.co/j33XsSD/cerveja-600-devassa.webp",
             "size": 600,
             "price": {
@@ -748,6 +793,7 @@
             "id": 50,
             "name": "Heineken 600ml",
             "description": "600ml",
+            "detail": null,
             "imageUrl": "https://i.ibb.co/7vQvf2Z/cerveja-600-heineken.webp",
             "size": 600,
             "price": {
@@ -762,6 +808,7 @@
             "id": 51,
             "name": "Skol 600ml",
             "description": "600ml",
+            "detail": null,
             "imageUrl": "https://i.ibb.co/PW922XT/cerveja-600-skol.webp",
             "size": 600,
             "price": {
@@ -776,6 +823,7 @@
             "id": 52,
             "name": "Spaten 600ml",
             "description": "600ml",
+            "detail": null,
             "imageUrl": "https://i.ibb.co/Jv9zbj7/cerveja-600-spaten.webp",
             "size": 600,
             "price": {
@@ -790,6 +838,7 @@
             "id": 53,
             "name": "Stella Artois 600ml",
             "description": "600ml",
+            "detail": null,
             "imageUrl": "https://i.ibb.co/xs4bzqT/cerveja-600-stella-artois.webp",
             "size": 600,
             "price": {
@@ -804,6 +853,7 @@
             "id": 54,
             "name": "Coca-cola",
             "description": "350ml",
+            "detail": null,
             "imageUrl": "https://i.ibb.co/dQcpPtY/refrigerante-lata-coca-cola.webp",
             "size": 350,
             "price": {
@@ -818,6 +868,7 @@
             "id": 55,
             "name": "Coca-cola Zero",
             "description": "350ml",
+            "detail": null,
             "imageUrl": "https://i.ibb.co/d0cgwgW/refrigerante-lata-coca-cola-zero.webp",
             "size": 350,
             "price": {
@@ -832,6 +883,7 @@
             "id": 56,
             "name": "Guaraná Antarctica",
             "description": "350ml",
+            "detail": null,
             "imageUrl": "https://i.ibb.co/pvNhFWZ/refrigerante-lata-guarana.webp",
             "size": 350,
             "price": {
@@ -846,6 +898,7 @@
             "id": 57,
             "name": "Pepsi",
             "description": "350ml",
+            "detail": null,
             "imageUrl": "https://i.ibb.co/VQT4gzn/refrigerante-lata-pepsi.webp",
             "size": 350,
             "price": {
@@ -860,6 +913,7 @@
             "id": 58,
             "name": "Sprite",
             "description": "350ml",
+            "detail": null,
             "imageUrl": "https://i.ibb.co/7kxWFPG/refrigerante-lata-sprite.webp",
             "size": 350,
             "price": {
@@ -874,6 +928,7 @@
             "id": 59,
             "name": "Sukita Laranja",
             "description": "350ml",
+            "detail": null,
             "imageUrl": "https://i.ibb.co/yY9S9PQ/refrigerante-lata-sukita-laranja.webp",
             "size": 350,
             "price": {
@@ -888,6 +943,7 @@
             "id": 60,
             "name": "Suco de Laranja",
             "description": "Copo",
+            "detail": null,
             "imageUrl": "https://i.ibb.co/yY9S9PQ/refrigerante-lata-sukita-laranja.webp",
             "size": null,
             "price": {
@@ -902,6 +958,7 @@
             "id": 61,
             "name": "Suco de Laranja",
             "description": "Jarra 1L",
+            "detail": null,
             "imageUrl": "https://i.ibb.co/yY9S9PQ/refrigerante-lata-sukita-laranja.webp",
             "size": null,
             "price": {
