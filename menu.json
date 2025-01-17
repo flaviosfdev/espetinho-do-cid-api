@@ -117,7 +117,7 @@
         {
             "id": 1,
             "name": "Carne",
-            "description": null,
+            "description": "Acompanha guarnições de farofa e vinagrete.",
             "imageUrl": "https://i.ibb.co/Jkg7BVJ/espeto-trad-carne.webp",
             "size": null,
             "price": {
