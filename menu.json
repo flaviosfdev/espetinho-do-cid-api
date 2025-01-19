@@ -1058,6 +1058,21 @@
             },
             "category": 14,
             "isAvailable": true
+        },
+        {
+            "id": 69,
+            "name": "Cerveja Lokal",
+            "description": null,
+            "detail": null,
+            "imageUrl": "https://i.ibb.co/16R8zV1/cerveja-lata-lokal.webp",
+            "size": null,
+            "price": {
+                "fullPrice": 275,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
+            "category": 7,
+            "isAvailable": true
         }
     ]
 }
