@@ -998,6 +998,66 @@
             },
             "category": 5,
             "isAvailable": true
+        },
+        {
+            "id": 65,
+            "name": "Vitamina de Uva",
+            "description": "Copo",
+            "detail": null,
+            "imageUrl": "https://i.ibb.co/yY9S9PQ/refrigerante-lata-sukita-laranja.webp",
+            "size": null,
+            "price": {
+                "fullPrice": 800,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
+            "category": 14,
+            "isAvailable": true
+        },
+        {
+            "id": 66,
+            "name": "Vitamina de Maracujá",
+            "description": "Copo",
+            "detail": null,
+            "imageUrl": "https://i.ibb.co/yY9S9PQ/refrigerante-lata-sukita-laranja.webp",
+            "size": null,
+            "price": {
+                "fullPrice": 800,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
+            "category": 14,
+            "isAvailable": true
+        },
+        {
+            "id": 67,
+            "name": "Vitamina de Cajá",
+            "description": "Copo",
+            "detail": null,
+            "imageUrl": "https://i.ibb.co/yY9S9PQ/refrigerante-lata-sukita-laranja.webp",
+            "size": null,
+            "price": {
+                "fullPrice": 800,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
+            "category": 14,
+            "isAvailable": true
+        },
+        {
+            "id": 68,
+            "name": "Vitamina de Acerola",
+            "description": "Copo",
+            "detail": null,
+            "imageUrl": "https://i.ibb.co/yY9S9PQ/refrigerante-lata-sukita-laranja.webp",
+            "size": null,
+            "price": {
+                "fullPrice": 800,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
+            "category": 14,
+            "isAvailable": true
         }
     ]
 }
