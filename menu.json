@@ -340,6 +340,21 @@
             "isAvailable": true
         },
         {
+            "id": 62,
+            "name": "Carne de sol com fritas",
+            "description": "Serve 3 pessoas",
+            "detail": null,
+            "imageUrl": "https://i.ibb.co/z5Jxzsp/petisco-carne-sol-com-fritas.jpg",
+            "size": null,
+            "price": {
+                "fullPrice": 3800,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
+            "category": 3,
+            "isAvailable": true
+        },
+        {
             "id": 16,
             "name": "Calabresa com fritas",
             "description": "Serve 3 pessoas",
