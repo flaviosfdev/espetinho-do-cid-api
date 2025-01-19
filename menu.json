@@ -317,7 +317,7 @@
             "imageUrl": "https://i.ibb.co/sjd9WqB/petisco-cubinho-macaxeira.webp",
             "size": null,
             "price": {
-                "fullPrice": 1400,
+                "fullPrice": 1500,
                 "offerPrice": 1190,
                 "offerPercentage": "15%"
             },
@@ -327,12 +327,12 @@
         {
             "id": 15,
             "name": "Filé com fritas",
-            "description": "Serve 2 pessoas",
+            "description": "Serve 3 pessoas",
             "detail": null,
             "imageUrl": "https://i.ibb.co/vJbKzjG/petisco-file-com-fritas.webp",
             "size": null,
             "price": {
-                "fullPrice": 3000,
+                "fullPrice": 3500,
                 "offerPrice": null,
                 "offerPercentage": null
             },
@@ -342,12 +342,12 @@
         {
             "id": 16,
             "name": "Calabresa com fritas",
-            "description": "Serve 2 pessoas",
+            "description": "Serve 3 pessoas",
             "detail": null,
             "imageUrl": "https://i.ibb.co/PrLrrBn/petisco-calabresa-com-fritas.webp",
             "size": null,
             "price": {
-                "fullPrice": 2200,
+                "fullPrice": 2500,
                 "offerPrice": null,
                 "offerPercentage": null
             },
