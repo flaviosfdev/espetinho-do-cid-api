@@ -26,9 +26,14 @@
             "name": "Suco"
         },
         {
-            "id": 6,
+            "id": 14,
+            "presentationOrder": 6,
+            "name": "Vitaminas"
+        },
+        {
+            "id": 12,
             "presentationOrder": 7,
-            "name": "Longneck"
+            "name": "Refrigerante Lata"
         },
         {
             "id": 7,
@@ -36,34 +41,35 @@
             "name": "Cerveja Lata"
         },
         {
-            "id": 8,
+            "id": 6,
             "presentationOrder": 9,
+            "name": "Longneck"
+        },
+        {
+            "id": 8,
+            "presentationOrder": 10,
             "name": "Ceveja 600ml"
+        },
+
+        {
+            "id": 13,
+            "presentationOrder": 11,
+            "name": "Bebida Quente"
         },
         {
             "id": 9,
-            "presentationOrder": 10,
+            "presentationOrder": 20,
             "name": "Combo"
         },
         {
             "id": 10,
-            "presentationOrder": 11,
+            "presentationOrder": 30,
             "name": "Promoção"
         },
         {
             "id": 11,
-            "presentationOrder": 12,
+            "presentationOrder": 40,
             "name": "Mais pedidos"
-        },
-        {
-            "id": 12,
-            "presentationOrder": 6,
-            "name": "Refrigerante Lata"
-        },
-        {
-            "id": 13,
-            "presentationOrder": 13,
-            "name": "Bebida Quente"
         }
     ]
 }
