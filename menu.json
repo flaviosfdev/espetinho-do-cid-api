@@ -371,7 +371,7 @@
         },
         {
             "id": 17,
-            "name": "Água SEM gás",
+            "name": "Água sem gás",
             "description": "500ml",
             "detail": null,
             "imageUrl": "https://i.ibb.co/rmtHDnT/agua-mineral-sem-gas.webp",
@@ -386,7 +386,7 @@
         },
         {
             "id": 18,
-            "name": "Água COM gás",
+            "name": "Água com gás",
             "description": "500ml",
             "detail": null,
             "imageUrl": "https://i.ibb.co/hHHGLs1/agua-mineral-com-gas.webp",
@@ -422,7 +422,7 @@
             "imageUrl": "https://i.ibb.co/t8sRtFW/longneck-ice-cabare.webp",
             "size": 275,
             "price": {
-                "fullPrice": 1000,
+                "fullPrice": 800,
                 "offerPrice": null,
                 "offerPercentage": null
             },
@@ -707,7 +707,7 @@
             "imageUrl": "https://i.ibb.co/BBN90vT/cerveja-lata-itaipava.webp",
             "size": null,
             "price": {
-                "fullPrice": 300,
+                "fullPrice": 350,
                 "offerPrice": null,
                 "offerPercentage": null
             },
@@ -722,7 +722,7 @@
             "imageUrl": "https://i.ibb.co/C9Hh7cM/cerveja-lata-skol.webp",
             "size": null,
             "price": {
-                "fullPrice": 300,
+                "fullPrice": 350,
                 "offerPrice": null,
                 "offerPercentage": null
             },
@@ -820,21 +820,6 @@
             "isAvailable": true
         },
         {
-            "id": 51,
-            "name": "Skol 600ml",
-            "description": "600ml",
-            "detail": null,
-            "imageUrl": "https://i.ibb.co/PW922XT/cerveja-600-skol.webp",
-            "size": 600,
-            "price": {
-                "fullPrice": 900,
-                "offerPrice": null,
-                "offerPercentage": null
-            },
-            "category": 8,
-            "isAvailable": true
-        },
-        {
             "id": 52,
             "name": "Spaten 600ml",
             "description": "600ml",
@@ -872,7 +857,7 @@
             "imageUrl": "https://i.ibb.co/dQcpPtY/refrigerante-lata-coca-cola.webp",
             "size": 350,
             "price": {
-                "fullPrice": 600,
+                "fullPrice": 450,
                 "offerPrice": null,
                 "offerPercentage": null
             },
@@ -887,7 +872,7 @@
             "imageUrl": "https://i.ibb.co/d0cgwgW/refrigerante-lata-coca-cola-zero.webp",
             "size": 350,
             "price": {
-                "fullPrice": 600,
+                "fullPrice": 450,
                 "offerPrice": null,
                 "offerPercentage": null
             },
@@ -902,7 +887,7 @@
             "imageUrl": "https://i.ibb.co/pvNhFWZ/refrigerante-lata-guarana.webp",
             "size": 350,
             "price": {
-                "fullPrice": 600,
+                "fullPrice": 450,
                 "offerPrice": null,
                 "offerPercentage": null
             },
@@ -917,7 +902,7 @@
             "imageUrl": "https://i.ibb.co/VQT4gzn/refrigerante-lata-pepsi.webp",
             "size": 350,
             "price": {
-                "fullPrice": 600,
+                "fullPrice": 450,
                 "offerPrice": null,
                 "offerPercentage": null
             },
@@ -932,7 +917,7 @@
             "imageUrl": "https://i.ibb.co/7kxWFPG/refrigerante-lata-sprite.webp",
             "size": 350,
             "price": {
-                "fullPrice": 600,
+                "fullPrice": 450,
                 "offerPrice": null,
                 "offerPercentage": null
             },
@@ -947,7 +932,7 @@
             "imageUrl": "https://i.ibb.co/yY9S9PQ/refrigerante-lata-sukita-laranja.webp",
             "size": 350,
             "price": {
-                "fullPrice": 600,
+                "fullPrice": 450,
                 "offerPrice": null,
                 "offerPercentage": null
             },
@@ -956,13 +941,13 @@
         },
         {
             "id": 60,
-            "name": "Suco de Laranja",
+            "name": "Suco de Uva",
             "description": "Copo",
             "detail": null,
             "imageUrl": "https://i.ibb.co/yY9S9PQ/refrigerante-lata-sukita-laranja.webp",
             "size": null,
             "price": {
-                "fullPrice": 800,
+                "fullPrice": 600,
                 "offerPrice": null,
                 "offerPercentage": null
             },
@@ -971,13 +956,43 @@
         },
         {
             "id": 61,
-            "name": "Suco de Laranja",
-            "description": "Jarra 1L",
+            "name": "Suco de Maracujá",
+            "description": "Copo",
             "detail": null,
             "imageUrl": "https://i.ibb.co/yY9S9PQ/refrigerante-lata-sukita-laranja.webp",
             "size": null,
             "price": {
-                "fullPrice": 1300,
+                "fullPrice": 600,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
+            "category": 5,
+            "isAvailable": true
+        },
+        {
+            "id": 63,
+            "name": "Suco de Cajá",
+            "description": "Copo",
+            "detail": null,
+            "imageUrl": "https://i.ibb.co/yY9S9PQ/refrigerante-lata-sukita-laranja.webp",
+            "size": null,
+            "price": {
+                "fullPrice": 600,
+                "offerPrice": null,
+                "offerPercentage": null
+            },
+            "category": 5,
+            "isAvailable": true
+        }
+        {
+            "id": 64,
+            "name": "Suco de Acerola",
+            "description": "Copo",
+            "detail": null,
+            "imageUrl": "https://i.ibb.co/yY9S9PQ/refrigerante-lata-sukita-laranja.webp",
+            "size": null,
+            "price": {
+                "fullPrice": 600,
                 "offerPrice": null,
                 "offerPercentage": null
             },
